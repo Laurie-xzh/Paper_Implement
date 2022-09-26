@@ -1,0 +1,39 @@
+# IUD, 2011_IVC_depart_F038_E019
+# Objects(7):
+# Object: 2_1 . 
+N, 3, 2, 1.0
+# Object: \pi_1 . 
+N, 7, \pi, 1.0
+N, 5, \pi, 1.0
+N, 6, \pi, 1.0
+E, 7, 5, \pi, 1.0
+E, 7, 6, \pi, 1.0
+E, 5, 7, \pi, 1.0
+E, 5, 6, \pi, 1.0
+E, 6, 7, \pi, 1.0
+E, 6, 5, \pi, 1.0
+# Object: =_1 . 
+N, 1, =, 1.0
+N, 2, =, 1.0
+E, 1, 2, =, 1.0
+E, 2, 1, =, 1.0
+# Object: \theta_1 . 
+N, 0, \theta, 1.0
+# Object: q_1 . 
+N, 9, q, 1.0
+# Object: k_1 . 
+N, 4, k, 1.0
+# Object: _1 . 
+N, 8, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 8, Right, 1.0
+E, 2, 8, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 4, 7, Right, 1.0
+E, 8, 3, Above, 1.0
+E, 8, 9, Below, 1.0

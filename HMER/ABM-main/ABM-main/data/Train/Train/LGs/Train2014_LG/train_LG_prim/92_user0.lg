@@ -1,0 +1,158 @@
+# IUD, 92_user0
+# Objects(19):
+# Object: )_1 . 
+N, 20, ), 1.0
+# Object: sin_3 . 
+N, 25, \sin, 1.0
+N, 23, \sin, 1.0
+N, 24, \sin, 1.0
+N, 22, \sin, 1.0
+E, 25, 23, \sin, 1.0
+E, 25, 24, \sin, 1.0
+E, 25, 22, \sin, 1.0
+E, 23, 25, \sin, 1.0
+E, 23, 24, \sin, 1.0
+E, 23, 22, \sin, 1.0
+E, 24, 25, \sin, 1.0
+E, 24, 23, \sin, 1.0
+E, 24, 22, \sin, 1.0
+E, 22, 25, \sin, 1.0
+E, 22, 23, \sin, 1.0
+E, 22, 24, \sin, 1.0
+# Object: (_1 . 
+N, 15, (, 1.0
+# Object: theta_1 . 
+N, 7, \theta, 1.0
+N, 8, \theta, 1.0
+E, 7, 8, \theta, 1.0
+E, 8, 7, \theta, 1.0
+# Object: prime_3 . 
+N, 30, \prime, 1.0
+# Object: prime_1 . 
+N, 27, \prime, 1.0
+# Object: _1 . 
+N, 21, -, 1.0
+# Object: +_1 . 
+N, 9, +, 1.0
+N, 10, +, 1.0
+E, 9, 10, +, 1.0
+E, 10, 9, +, 1.0
+# Object: =_1 . 
+N, 1, =, 1.0
+N, 2, =, 1.0
+E, 1, 2, =, 1.0
+E, 2, 1, =, 1.0
+# Object: sin_1 . 
+N, 6, \sin, 1.0
+N, 4, \sin, 1.0
+N, 5, \sin, 1.0
+N, 3, \sin, 1.0
+E, 6, 4, \sin, 1.0
+E, 6, 5, \sin, 1.0
+E, 6, 3, \sin, 1.0
+E, 4, 6, \sin, 1.0
+E, 4, 5, \sin, 1.0
+E, 4, 3, \sin, 1.0
+E, 5, 6, \sin, 1.0
+E, 5, 4, \sin, 1.0
+E, 5, 3, \sin, 1.0
+E, 3, 6, \sin, 1.0
+E, 3, 4, \sin, 1.0
+E, 3, 5, \sin, 1.0
+# Object: x_1 . 
+N, 31, x, 1.0
+N, 32, x, 1.0
+E, 31, 32, x, 1.0
+E, 32, 31, x, 1.0
+# Object: theta_2 . 
+N, 18, \theta, 1.0
+N, 19, \theta, 1.0
+E, 18, 19, \theta, 1.0
+E, 19, 18, \theta, 1.0
+# Object: y_2 . 
+N, 33, y, 1.0
+# Object: sin_2 . 
+N, 14, \sin, 1.0
+N, 12, \sin, 1.0
+N, 13, \sin, 1.0
+N, 11, \sin, 1.0
+E, 14, 12, \sin, 1.0
+E, 14, 13, \sin, 1.0
+E, 14, 11, \sin, 1.0
+E, 12, 14, \sin, 1.0
+E, 12, 13, \sin, 1.0
+E, 12, 11, \sin, 1.0
+E, 13, 14, \sin, 1.0
+E, 13, 12, \sin, 1.0
+E, 13, 11, \sin, 1.0
+E, 11, 14, \sin, 1.0
+E, 11, 12, \sin, 1.0
+E, 11, 13, \sin, 1.0
+# Object: +_2 . 
+N, 16, +, 1.0
+N, 17, +, 1.0
+E, 16, 17, +, 1.0
+E, 17, 16, +, 1.0
+# Object: w_1 . 
+N, 29, w, 1.0
+# Object: w_2 . 
+N, 26, w, 1.0
+# Object: y_1 . 
+N, 0, y, 1.0
+# Object: prime_2 . 
+N, 28, \prime, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 21, Right, 1.0
+E, 2, 21, Right, 1.0
+E, 3, 7, Right, 1.0
+E, 3, 8, Right, 1.0
+E, 4, 7, Right, 1.0
+E, 4, 8, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 5, 8, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 7, 10, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 9, 33, Right, 1.0
+E, 10, 33, Right, 1.0
+E, 11, 15, Right, 1.0
+E, 12, 15, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 15, 29, Right, 1.0
+E, 16, 18, Right, 1.0
+E, 16, 19, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 17, 19, Right, 1.0
+E, 18, 20, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 21, 22, Below, 1.0
+E, 21, 23, Below, 1.0
+E, 21, 24, Below, 1.0
+E, 21, 25, Below, 1.0
+E, 21, 31, Above, 1.0
+E, 21, 32, Above, 1.0
+E, 22, 26, Right, 1.0
+E, 23, 26, Right, 1.0
+E, 24, 26, Right, 1.0
+E, 25, 26, Right, 1.0
+E, 27, 3, Right, 1.0
+E, 27, 4, Right, 1.0
+E, 27, 5, Right, 1.0
+E, 27, 6, Right, 1.0
+E, 28, 11, Right, 1.0
+E, 28, 12, Right, 1.0
+E, 28, 13, Right, 1.0
+E, 28, 14, Right, 1.0
+E, 29, 30, Right, 1.0
+E, 30, 16, Right, 1.0
+E, 30, 17, Right, 1.0
+E, 31, 27, Right, 1.0
+E, 32, 27, Right, 1.0
+E, 33, 28, Right, 1.0

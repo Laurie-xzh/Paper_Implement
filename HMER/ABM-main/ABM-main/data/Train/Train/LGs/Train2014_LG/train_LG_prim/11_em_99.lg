@@ -1,0 +1,15 @@
+# IUD, 2013_IVC_CROHME_F11_E99
+# Objects(4):
+# Object: mu_2 . 
+N, 3, \mu, 1.0
+# Object: P_2 . 
+N, 2, P, 1.0
+# Object: P_1 . 
+N, 0, P, 1.0
+# Object: mu_1 . 
+N, 1, \mu, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Right, 1.0
+E, 2, 3, Sub, 1.0

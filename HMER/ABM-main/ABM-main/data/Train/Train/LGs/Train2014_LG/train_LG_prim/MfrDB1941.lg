@@ -1,0 +1,61 @@
+# IUD, MfrDB1941
+# Objects(11):
+# Object: x_1 . 
+N, 4, x, 1.0
+N, 5, x, 1.0
+E, 4, 5, x, 1.0
+E, 5, 4, x, 1.0
+# Object: \sqrt_1 . 
+N, 12, \sqrt, 1.0
+N, 15, \sqrt, 1.0
+E, 12, 15, \sqrt, 1.0
+E, 15, 12, \sqrt, 1.0
+# Object: f_1 . 
+N, 0, f, 1.0
+N, 1, f, 1.0
+E, 0, 1, f, 1.0
+E, 1, 0, f, 1.0
+# Object: 1_1 . 
+N, 9, 1, 1.0
+# Object: '_1 . 
+N, 2, \prime, 1.0
+# Object: =_1 . 
+N, 7, =, 1.0
+N, 8, =, 1.0
+E, 7, 8, =, 1.0
+E, 8, 7, =, 1.0
+# Object: )_1 . 
+N, 6, ), 1.0
+# Object: \frac_1 . 
+N, 10, -, 1.0
+# Object: 2_1 . 
+N, 11, 2, 1.0
+# Object: (_1 . 
+N, 3, (, 1.0
+# Object: x_2 . 
+N, 13, x, 1.0
+N, 14, x, 1.0
+E, 13, 14, x, 1.0
+E, 14, 13, x, 1.0
+
+# Relations from SRT:
+E, 0, 2, Sup, 1.0
+E, 0, 3, Right, 1.0
+E, 1, 2, Sup, 1.0
+E, 1, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 10, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 10, 9, Above, 1.0
+E, 10, 11, Below, 1.0
+E, 11, 12, Right, 1.0
+E, 11, 15, Right, 1.0
+E, 12, 13, Inside, 1.0
+E, 12, 14, Inside, 1.0
+E, 15, 13, Inside, 1.0
+E, 15, 14, Inside, 1.0

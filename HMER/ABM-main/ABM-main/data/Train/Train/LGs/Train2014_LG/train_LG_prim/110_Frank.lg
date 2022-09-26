@@ -1,0 +1,88 @@
+# IUD, 110_Frank
+# Objects(22):
+# Object: (_1 . 
+N, 5, (, 1.0
+# Object: _2 . 
+N, 7, -, 1.0
+# Object: a_2 . 
+N, 19, a, 1.0
+# Object: _4 . 
+N, 0, -, 1.0
+# Object: 2_1 . 
+N, 4, 2, 1.0
+# Object: +_1 . 
+N, 9, +, 1.0
+N, 10, +, 1.0
+E, 9, 10, +, 1.0
+E, 10, 9, +, 1.0
+# Object: =_1 . 
+N, 16, =, 1.0
+N, 17, =, 1.0
+E, 16, 17, =, 1.0
+E, 17, 16, =, 1.0
+# Object: a_1 . 
+N, 8, a, 1.0
+# Object: 1_1 . 
+N, 2, 1, 1.0
+# Object: _3 . 
+N, 11, -, 1.0
+# Object: a_3 . 
+N, 22, a, 1.0
+# Object: _5 . 
+N, 21, -, 1.0
+# Object: b_2 . 
+N, 20, b, 1.0
+# Object: +_2 . 
+N, 23, +, 1.0
+N, 24, +, 1.0
+E, 23, 24, +, 1.0
+E, 24, 23, +, 1.0
+# Object: )_1 . 
+N, 15, ), 1.0
+# Object: 2_2 . 
+N, 18, 2, 1.0
+# Object: _1 . 
+N, 3, -, 1.0
+# Object: 1_4 . 
+N, 12, 1, 1.0
+# Object: 1_2 . 
+N, 1, 1, 1.0
+# Object: b_3 . 
+N, 25, b, 1.0
+# Object: 1_3 . 
+N, 6, 1, 1.0
+# Object: b_1 . 
+N, 13, b, 1.0
+N, 14, b, 1.0
+E, 13, 14, b, 1.0
+E, 14, 13, b, 1.0
+
+# Relations from SRT:
+E, 0, 12, Above, 1.0
+E, 0, 13, Below, 1.0
+E, 0, 14, Below, 1.0
+E, 0, 15, Right, 1.0
+E, 3, 2, Above, 1.0
+E, 3, 7, Below, 1.0
+E, 3, 16, Right, 1.0
+E, 3, 17, Right, 1.0
+E, 5, 11, Right, 1.0
+E, 7, 1, Above, 1.0
+E, 7, 4, Below, 1.0
+E, 7, 5, Right, 1.0
+E, 9, 0, Right, 1.0
+E, 10, 0, Right, 1.0
+E, 11, 6, Above, 1.0
+E, 11, 8, Below, 1.0
+E, 11, 9, Right, 1.0
+E, 11, 10, Right, 1.0
+E, 16, 21, Right, 1.0
+E, 17, 21, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 21, 18, Above, 1.0
+E, 21, 22, Below, 1.0
+E, 22, 23, Right, 1.0
+E, 22, 24, Right, 1.0
+E, 23, 25, Right, 1.0
+E, 24, 25, Right, 1.0

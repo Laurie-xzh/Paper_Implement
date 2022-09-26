@@ -1,0 +1,59 @@
+# IUD, MfrDB1625
+# Objects(14):
+# Object: \geq_1 . 
+N, 9, \geq, 1.0
+N, 10, \geq, 1.0
+E, 9, 10, \geq, 1.0
+E, 10, 9, \geq, 1.0
+# Object: c_1 . 
+N, 4, c, 1.0
+# Object: a_3 . 
+N, 16, a, 1.0
+# Object: a_1 . 
+N, 0, a, 1.0
+# Object: a_2 . 
+N, 11, a, 1.0
+# Object: 4_1 . 
+N, 7, 4, 1.0
+N, 8, 4, 1.0
+E, 7, 8, 4, 1.0
+E, 8, 7, 4, 1.0
+# Object: -_3 . 
+N, 13, -, 1.0
+# Object: (_1 . 
+N, 5, (, 1.0
+# Object: )_1 . 
+N, 6, ), 1.0
+# Object: b_2 . 
+N, 12, b, 1.0
+# Object: 4_2 . 
+N, 14, 4, 1.0
+N, 15, 4, 1.0
+E, 14, 15, 4, 1.0
+E, 15, 14, 4, 1.0
+# Object: -_2 . 
+N, 3, -, 1.0
+# Object: b_1 . 
+N, 2, b, 1.0
+# Object: -_1 . 
+N, 1, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 5, 0, Right, 1.0
+E, 6, 7, Sup, 1.0
+E, 6, 8, Sup, 1.0
+E, 6, 9, Right, 1.0
+E, 6, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 15, 16, Right, 1.0

@@ -1,0 +1,86 @@
+# IUD, 82_bruno
+# Objects(19):
+# Object: B_1 . 
+N, 3, B, 1.0
+N, 4, B, 1.0
+E, 3, 4, B, 1.0
+E, 4, 3, B, 1.0
+# Object: B_2 . 
+N, 17, B, 1.0
+N, 18, B, 1.0
+E, 17, 18, B, 1.0
+E, 18, 17, B, 1.0
+# Object: A_1 . 
+N, 6, A, 1.0
+# Object: -_1 . 
+N, 5, -, 1.0
+# Object: C_1 . 
+N, 8, C, 1.0
+# Object: q_1 . 
+N, 0, q, 1.0
+# Object: _2 . 
+N, 7, -, 1.0
+# Object: -_2 . 
+N, 19, -, 1.0
+# Object: +_1 . 
+N, 12, +, 1.0
+N, 13, +, 1.0
+E, 12, 13, +, 1.0
+E, 13, 12, +, 1.0
+# Object: (_1 . 
+N, 10, (, 1.0
+# Object: _3 . 
+N, 21, -, 1.0
+# Object: +_2 . 
+N, 15, +, 1.0
+N, 16, +, 1.0
+E, 15, 16, +, 1.0
+E, 16, 15, +, 1.0
+# Object: _1 . 
+N, 22, \sqrt, 1.0
+# Object: 1_1 . 
+N, 14, 1, 1.0
+# Object: 2_1 . 
+N, 11, 2, 1.0
+# Object: =_1 . 
+N, 1, =, 1.0
+N, 2, =, 1.0
+E, 1, 2, =, 1.0
+E, 2, 1, =, 1.0
+# Object: C_2 . 
+N, 23, C, 1.0
+# Object: A_2 . 
+N, 20, A, 1.0
+# Object: )_1 . 
+N, 9, ), 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 22, Right, 1.0
+E, 2, 22, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 7, 3, Above, 1.0
+E, 7, 4, Above, 1.0
+E, 7, 8, Below, 1.0
+E, 7, 9, Right, 1.0
+E, 9, 11, Sup, 1.0
+E, 9, 12, Right, 1.0
+E, 9, 13, Right, 1.0
+E, 10, 7, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 15, 21, Right, 1.0
+E, 16, 21, Right, 1.0
+E, 17, 19, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 21, 17, Above, 1.0
+E, 21, 18, Above, 1.0
+E, 21, 23, Below, 1.0
+E, 22, 7, Inside, 1.0
+E, 22, 10, Inside, 1.0
+E, 22, 15, Right, 1.0
+E, 22, 16, Right, 1.0

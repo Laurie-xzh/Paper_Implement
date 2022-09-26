@@ -1,0 +1,86 @@
+# IUD, "2009213-139-85.ink"
+# Objects(13):
+# Object: 12: . 
+N, 12, 2, 1.0
+# Object: 3:4: . 
+N, 3, z, 1.0
+N, 4, z, 1.0
+E, 3, 4, z, 1.0
+E, 4, 3, z, 1.0
+# Object: 9: . 
+N, 9, 3, 1.0
+# Object: 18:19: . 
+N, 18, z, 1.0
+N, 19, z, 1.0
+E, 18, 19, z, 1.0
+E, 19, 18, z, 1.0
+# Object: 16:17: . 
+N, 16, 4, 1.0
+N, 17, 4, 1.0
+E, 16, 17, 4, 1.0
+E, 17, 16, 4, 1.0
+# Object: 0:1: . 
+N, 0, \sqrt, 1.0
+N, 1, \sqrt, 1.0
+E, 0, 1, \sqrt, 1.0
+E, 1, 0, \sqrt, 1.0
+# Object: 5: . 
+N, 5, 3, 1.0
+# Object: 6: . 
+N, 6, -, 1.0
+# Object: 7:8: . 
+N, 7, \sqrt, 1.0
+N, 8, \sqrt, 1.0
+E, 7, 8, \sqrt, 1.0
+E, 8, 7, \sqrt, 1.0
+# Object: 2: . 
+N, 2, 2, 1.0
+# Object: 14:15:20: . 
+N, 14, \sqrt, 1.0
+N, 15, \sqrt, 1.0
+N, 20, \sqrt, 1.0
+E, 14, 15, \sqrt, 1.0
+E, 14, 20, \sqrt, 1.0
+E, 15, 14, \sqrt, 1.0
+E, 15, 20, \sqrt, 1.0
+E, 20, 14, \sqrt, 1.0
+E, 20, 15, \sqrt, 1.0
+# Object: 10: . 
+N, 10, z, 1.0
+# Object: 13: . 
+N, 13, -, 1.0
+
+# Relations from SRT:
+E, 0, 6, Inside, 1.0
+E, 1, 6, Inside, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 5, Sup, 1.0
+E, 4, 5, Sup, 1.0
+E, 6, 2, Above, 1.0
+E, 6, 7, Below, 1.0
+E, 6, 8, Below, 1.0
+E, 7, 13, Inside, 1.0
+E, 8, 13, Inside, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 12, Sup, 1.0
+E, 13, 9, Above, 1.0
+E, 13, 14, Below, 1.0
+E, 13, 15, Below, 1.0
+E, 13, 20, Below, 1.0
+E, 14, 16, Inside, 1.0
+E, 14, 17, Inside, 1.0
+E, 14, 18, Inside, 1.0
+E, 14, 19, Inside, 1.0
+E, 15, 16, Inside, 1.0
+E, 15, 17, Inside, 1.0
+E, 15, 18, Inside, 1.0
+E, 15, 19, Inside, 1.0
+E, 16, 18, Right, 1.0
+E, 16, 19, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 17, 19, Right, 1.0
+E, 20, 16, Inside, 1.0
+E, 20, 17, Inside, 1.0
+E, 20, 18, Inside, 1.0
+E, 20, 19, Inside, 1.0

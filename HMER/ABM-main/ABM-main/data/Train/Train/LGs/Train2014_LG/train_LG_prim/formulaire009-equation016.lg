@@ -1,0 +1,32 @@
+# IUD, 2011_IVC_DEPART_F009_E016
+# Objects(8):
+# Object: b_1 . 
+N, 2, b, 1.0
+# Object: n_3 . 
+N, 5, n, 1.0
+# Object: d_1 . 
+N, 6, d, 1.0
+N, 7, d, 1.0
+E, 6, 7, d, 1.0
+E, 7, 6, d, 1.0
+# Object: c_1 . 
+N, 4, c, 1.0
+# Object: n_2 . 
+N, 3, n, 1.0
+# Object: n_1 . 
+N, 1, n, 1.0
+# Object: n_4 . 
+N, 8, n, 1.0
+# Object: a_1 . 
+N, 0, a, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Right, 1.0
+E, 2, 3, Sup, 1.0
+E, 2, 4, Right, 1.0
+E, 4, 5, Sup, 1.0
+E, 4, 6, Right, 1.0
+E, 4, 7, Right, 1.0
+E, 6, 8, Sup, 1.0
+E, 7, 8, Sup, 1.0

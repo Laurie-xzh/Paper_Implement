@@ -1,0 +1,46 @@
+# IUD, MfrDB1917
+# Objects(11):
+# Object: +_2 . 
+N, 10, +, 1.0
+N, 11, +, 1.0
+E, 10, 11, +, 1.0
+E, 11, 10, +, 1.0
+# Object: +_1 . 
+N, 4, +, 1.0
+N, 5, +, 1.0
+E, 4, 5, +, 1.0
+E, 5, 4, +, 1.0
+# Object: 2_1 . 
+N, 6, 2, 1.0
+# Object: _3 . 
+N, 8, \sqrt, 1.0
+# Object: 3_1 . 
+N, 3, 3, 1.0
+# Object: 1_1 . 
+N, 12, 1, 1.0
+# Object: 3_2 . 
+N, 0, 3, 1.0
+# Object: z_1 . 
+N, 2, z, 1.0
+# Object: _1 . 
+N, 1, \sqrt, 1.0
+# Object: _2 . 
+N, 7, -, 1.0
+# Object: z_2 . 
+N, 9, z, 1.0
+
+# Relations from SRT:
+E, 1, 0, Above, 1.0
+E, 1, 7, Inside, 1.0
+E, 2, 3, Sup, 1.0
+E, 2, 4, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 7, 2, Above, 1.0
+E, 7, 8, Below, 1.0
+E, 8, 9, Inside, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 12, Right, 1.0

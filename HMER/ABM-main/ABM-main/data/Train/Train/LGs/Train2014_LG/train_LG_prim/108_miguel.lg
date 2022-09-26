@@ -1,0 +1,50 @@
+# IUD, 108_miguel
+# Objects(9):
+# Object: =_1 . 
+N, 5, =, 1.0
+N, 6, =, 1.0
+E, 5, 6, =, 1.0
+E, 6, 5, =, 1.0
+# Object: a_3 . 
+N, 7, a, 1.0
+# Object: x_1 . 
+N, 1, x, 1.0
+N, 2, x, 1.0
+E, 1, 2, x, 1.0
+E, 2, 1, x, 1.0
+# Object: y_1 . 
+N, 4, y, 1.0
+# Object: a_1 . 
+N, 0, a, 1.0
+# Object: x_2 . 
+N, 8, x, 1.0
+N, 9, x, 1.0
+E, 8, 9, x, 1.0
+E, 9, 8, x, 1.0
+# Object: +_1 . 
+N, 10, +, 1.0
+N, 11, +, 1.0
+E, 10, 11, +, 1.0
+E, 11, 10, +, 1.0
+# Object: a_2 . 
+N, 3, a, 1.0
+# Object: y_2 . 
+N, 12, y, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Sup, 1.0
+E, 0, 3, Right, 1.0
+E, 3, 4, Sup, 1.0
+E, 3, 5, Right, 1.0
+E, 3, 6, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Sup, 1.0
+E, 7, 9, Sup, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 12, Right, 1.0

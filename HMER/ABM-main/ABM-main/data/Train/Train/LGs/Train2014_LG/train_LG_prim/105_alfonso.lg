@@ -1,0 +1,106 @@
+# IUD, 105_alfonso
+# Objects(31):
+# Object: b_1 . 
+N, 0, b, 1.0
+# Object: 4_2 . 
+N, 10, 4, 1.0
+# Object: 3_1 . 
+N, 7, 3, 1.0
+# Object: 2_5 . 
+N, 29, 2, 1.0
+# Object: -_3 . 
+N, 22, -, 1.0
+# Object: 2_1 . 
+N, 1, 2, 1.0
+# Object: d_1 . 
+N, 8, d, 1.0
+# Object: -_1 . 
+N, 4, -, 1.0
+# Object: +_1 . 
+N, 14, +, 1.0
+N, 15, +, 1.0
+E, 14, 15, +, 1.0
+E, 15, 14, +, 1.0
+# Object: a_4 . 
+N, 31, a, 1.0
+# Object: c_2 . 
+N, 12, c, 1.0
+# Object: a_2 . 
+N, 18, a, 1.0
+# Object: 2_2 . 
+N, 3, 2, 1.0
+# Object: 2_4 . 
+N, 27, 2, 1.0
+# Object: 4_3 . 
+N, 32, 4, 1.0
+# Object: _1 . 
+N, 30, -, 1.0
+# Object: b_2 . 
+N, 6, b, 1.0
+# Object: d_3 . 
+N, 28, d, 1.0
+# Object: a_3 . 
+N, 26, a, 1.0
+# Object: 3_2 . 
+N, 13, 3, 1.0
+# Object: c_1 . 
+N, 2, c, 1.0
+# Object: 7_1 . 
+N, 24, 7, 1.0
+N, 25, 7, 1.0
+E, 24, 25, 7, 1.0
+E, 25, 24, 7, 1.0
+# Object: 2_3 . 
+N, 23, 2, 1.0
+# Object: 1_1 . 
+N, 16, 1, 1.0
+# Object: 8_1 . 
+N, 17, 8, 1.0
+# Object: b_3 . 
+N, 19, b, 1.0
+# Object: d_2 . 
+N, 21, d, 1.0
+# Object: c_3 . 
+N, 20, c, 1.0
+# Object: a_1 . 
+N, 11, a, 1.0
+# Object: -_2 . 
+N, 9, -, 1.0
+# Object: 4_1 . 
+N, 5, 4, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Right, 1.0
+E, 2, 3, Sup, 1.0
+E, 2, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Sup, 1.0
+E, 6, 8, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 12, 13, Sup, 1.0
+E, 12, 14, Right, 1.0
+E, 12, 15, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 16, 17, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 20, 21, Right, 1.0
+E, 21, 22, Right, 1.0
+E, 22, 23, Right, 1.0
+E, 23, 24, Right, 1.0
+E, 23, 25, Right, 1.0
+E, 24, 26, Right, 1.0
+E, 25, 26, Right, 1.0
+E, 26, 27, Sup, 1.0
+E, 26, 28, Right, 1.0
+E, 28, 29, Sup, 1.0
+E, 30, 0, Above, 1.0
+E, 30, 31, Below, 1.0
+E, 31, 32, Sup, 1.0

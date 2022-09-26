@@ -1,0 +1,28 @@
+# IUD, MfrDB2807
+# Objects(7):
+# Object: a_1 . 
+N, 7, a, 1.0
+# Object: \frac_1 . 
+N, 6, -, 1.0
+# Object: -_1 . 
+N, 4, -, 1.0
+# Object: b_1 . 
+N, 5, b, 1.0
+# Object: c_1 . 
+N, 3, c, 1.0
+# Object: x_1 . 
+N, 0, x, 1.0
+N, 1, x, 1.0
+E, 0, 1, x, 1.0
+E, 1, 0, x, 1.0
+# Object: \lt_1 . 
+N, 2, \lt, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 6, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 6, 3, Above, 1.0
+E, 6, 7, Below, 1.0

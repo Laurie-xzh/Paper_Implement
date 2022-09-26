@@ -1,0 +1,37 @@
+# IUD, "200923-131-17.ink"
+# Objects(6):
+# Object: 6: . 
+N, 6, \sqrt, 1.0
+# Object: 8: . 
+N, 8, B, 1.0
+# Object: 5: . 
+N, 5, b, 1.0
+# Object: 2:3:4: . 
+N, 2, \pi, 1.0
+N, 3, \pi, 1.0
+N, 4, \pi, 1.0
+E, 2, 3, \pi, 1.0
+E, 2, 4, \pi, 1.0
+E, 3, 2, \pi, 1.0
+E, 3, 4, \pi, 1.0
+E, 4, 2, \pi, 1.0
+E, 4, 3, \pi, 1.0
+# Object: 0:1: . 
+N, 0, t, 1.0
+N, 1, t, 1.0
+E, 0, 1, t, 1.0
+E, 1, 0, t, 1.0
+# Object: 7: . 
+N, 7, -, 1.0
+
+# Relations from SRT:
+E, 2, 5, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 0, Inside, 1.0
+E, 6, 1, Inside, 1.0
+E, 6, 2, Sup, 1.0
+E, 6, 3, Sup, 1.0
+E, 6, 4, Sup, 1.0
+E, 7, 8, Right, 1.0

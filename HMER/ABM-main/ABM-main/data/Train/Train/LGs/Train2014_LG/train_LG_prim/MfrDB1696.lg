@@ -1,0 +1,53 @@
+# IUD, MfrDB1696
+# Objects(10):
+# Object: 1_1 . 
+N, 9, 1, 1.0
+# Object: k_1 . 
+N, 5, k, 1.0
+N, 6, k, 1.0
+E, 5, 6, k, 1.0
+E, 6, 5, k, 1.0
+# Object: =_1 . 
+N, 2, =, 1.0
+N, 3, =, 1.0
+E, 2, 3, =, 1.0
+E, 3, 2, =, 1.0
+# Object: =_2 . 
+N, 7, =, 1.0
+N, 8, =, 1.0
+E, 7, 8, =, 1.0
+E, 8, 7, =, 1.0
+# Object: \sum_1 . 
+N, 4, \sum, 1.0
+# Object: s_1 . 
+N, 0, s, 1.0
+# Object: n_2 . 
+N, 10, n, 1.0
+# Object: k_2 . 
+N, 12, k, 1.0
+N, 13, k, 1.0
+E, 12, 13, k, 1.0
+E, 13, 12, k, 1.0
+# Object: a_1 . 
+N, 11, a, 1.0
+# Object: n_1 . 
+N, 1, n, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sub, 1.0
+E, 0, 2, Right, 1.0
+E, 0, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Below, 1.0
+E, 4, 6, Below, 1.0
+E, 4, 10, Above, 1.0
+E, 4, 11, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 5, 8, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 11, 12, Sub, 1.0
+E, 11, 13, Sub, 1.0

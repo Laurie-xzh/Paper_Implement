@@ -1,0 +1,72 @@
+# IUD, "200922-947-15.ink"
+# Objects(11):
+# Object: 4:5: . 
+N, 4, B, 1.0
+N, 5, B, 1.0
+E, 4, 5, B, 1.0
+E, 5, 4, B, 1.0
+# Object: 13: . 
+N, 13, q, 1.0
+# Object: 2: . 
+N, 2, d, 1.0
+# Object: 0: . 
+N, 0, \int, 1.0
+# Object: 1: . 
+N, 1, C, 1.0
+# Object: 3: . 
+N, 3, (, 1.0
+# Object: 6: . 
+N, 6, ), 1.0
+# Object: 10:7:8:9: . 
+N, 10, \tan, 1.0
+N, 7, \tan, 1.0
+N, 8, \tan, 1.0
+N, 9, \tan, 1.0
+E, 10, 7, \tan, 1.0
+E, 10, 8, \tan, 1.0
+E, 10, 9, \tan, 1.0
+E, 7, 10, \tan, 1.0
+E, 7, 8, \tan, 1.0
+E, 7, 9, \tan, 1.0
+E, 8, 10, \tan, 1.0
+E, 8, 7, \tan, 1.0
+E, 8, 9, \tan, 1.0
+E, 9, 10, \tan, 1.0
+E, 9, 7, \tan, 1.0
+E, 9, 8, \tan, 1.0
+# Object: 14: . 
+N, 14, d, 1.0
+# Object: 15: . 
+N, 15, s, 1.0
+# Object: 11:12: . 
+N, 11, \alpha, 1.0
+N, 12, \alpha, 1.0
+E, 11, 12, \alpha, 1.0
+E, 12, 11, \alpha, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sub, 1.0
+E, 0, 2, Sup, 1.0
+E, 0, 7, Right, 1.0
+E, 0, 8, Right, 1.0
+E, 0, 9, Right, 1.0
+E, 0, 10, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 7, 11, Sup, 1.0
+E, 7, 12, Sup, 1.0
+E, 7, 13, Right, 1.0
+E, 8, 11, Sup, 1.0
+E, 8, 12, Sup, 1.0
+E, 8, 13, Right, 1.0
+E, 9, 11, Sup, 1.0
+E, 9, 12, Sup, 1.0
+E, 9, 13, Right, 1.0
+E, 10, 11, Sup, 1.0
+E, 10, 12, Sup, 1.0
+E, 10, 13, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 14, 15, Right, 1.0

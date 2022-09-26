@@ -1,0 +1,121 @@
+# IUD, MfrDB3385
+# Objects(28):
+# Object: 2_4 . 
+N, 29, 2, 1.0
+# Object: -_2 . 
+N, 28, -, 1.0
+# Object: \cdot_1 . 
+N, 16, ., 1.0
+N, 23, ., 1.0
+E, 16, 23, ., 1.0
+E, 23, 16, ., 1.0
+# Object: (_1 . 
+N, 17, (, 1.0
+# Object: )_1 . 
+N, 21, ), 1.0
+# Object: \int_2 . 
+N, 1, \int, 1.0
+# Object: 2_1 . 
+N, 4, 2, 1.0
+# Object: =_1 . 
+N, 13, =, 1.0
+N, 14, =, 1.0
+E, 13, 14, =, 1.0
+E, 14, 13, =, 1.0
+# Object: 2_2 . 
+N, 7, 2, 1.0
+# Object: (_2 . 
+N, 25, (, 1.0
+# Object: 2_5 . 
+N, 34, 2, 1.0
+# Object: =_2 . 
+N, 31, =, 1.0
+N, 32, =, 1.0
+E, 31, 32, =, 1.0
+E, 32, 31, =, 1.0
+# Object: )_2 . 
+N, 30, ), 1.0
+# Object: \cdot_2 . 
+N, 22, ., 1.0
+N, 24, ., 1.0
+E, 22, 24, ., 1.0
+E, 24, 22, ., 1.0
+# Object: -_1 . 
+N, 19, -, 1.0
+# Object: d_2 . 
+N, 11, d, 1.0
+# Object: y_1 . 
+N, 12, y, 1.0
+# Object: 4_1 . 
+N, 5, 4, 1.0
+N, 6, 4, 1.0
+E, 5, 6, 4, 1.0
+E, 6, 5, 4, 1.0
+# Object: 3_2 . 
+N, 20, 3, 1.0
+# Object: 6_1 . 
+N, 3, 6, 1.0
+# Object: \int_1 . 
+N, 0, \int, 1.0
+# Object: 2_3 . 
+N, 15, 2, 1.0
+# Object: d_1 . 
+N, 8, d, 1.0
+# Object: 1_1 . 
+N, 33, 1, 1.0
+# Object: 3_1 . 
+N, 2, 3, 1.0
+# Object: x_1 . 
+N, 9, x, 1.0
+N, 10, x, 1.0
+E, 9, 10, x, 1.0
+E, 10, 9, x, 1.0
+# Object: 6_2 . 
+N, 18, 6, 1.0
+# Object: 4_2 . 
+N, 26, 4, 1.0
+N, 27, 4, 1.0
+E, 26, 27, 4, 1.0
+E, 27, 26, 4, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Below, 1.0
+E, 0, 3, Above, 1.0
+E, 1, 4, Below, 1.0
+E, 1, 5, Above, 1.0
+E, 1, 6, Above, 1.0
+E, 1, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 15, 23, Right, 1.0
+E, 16, 17, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 20, 21, Right, 1.0
+E, 21, 22, Right, 1.0
+E, 21, 24, Right, 1.0
+E, 22, 25, Right, 1.0
+E, 23, 17, Right, 1.0
+E, 24, 25, Right, 1.0
+E, 25, 26, Right, 1.0
+E, 25, 27, Right, 1.0
+E, 26, 28, Right, 1.0
+E, 27, 28, Right, 1.0
+E, 28, 29, Right, 1.0
+E, 29, 30, Right, 1.0
+E, 30, 31, Right, 1.0
+E, 30, 32, Right, 1.0
+E, 31, 33, Right, 1.0
+E, 32, 33, Right, 1.0
+E, 33, 34, Right, 1.0

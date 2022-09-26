@@ -1,0 +1,9 @@
+# IUD, "200926-1617-168.ink"
+# Objects(2):
+# Object: 0: . 
+N, 0, R, 1.0
+# Object: 1: . 
+N, 1, V, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sub, 1.0

@@ -1,0 +1,35 @@
+# IUD, MfrDB2141
+# Objects(9):
+# Object: g_1 . 
+N, 7, g, 1.0
+# Object: =_1 . 
+N, 1, =, 1.0
+N, 2, =, 1.0
+E, 1, 2, =, 1.0
+E, 2, 1, =, 1.0
+# Object: t_1 . 
+N, 5, t, 1.0
+# Object: t_2 . 
+N, 8, t, 1.0
+# Object: 0_1 . 
+N, 4, 0, 1.0
+# Object: v_1 . 
+N, 0, v, 1.0
+# Object: v_2 . 
+N, 3, v, 1.0
+# Object: 2_1 . 
+N, 9, 2, 1.0
+# Object: -_1 . 
+N, 6, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 3, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Sub, 1.0
+E, 3, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 8, 9, Sup, 1.0

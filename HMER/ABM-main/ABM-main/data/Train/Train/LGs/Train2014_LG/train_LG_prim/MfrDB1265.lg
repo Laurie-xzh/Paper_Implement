@@ -1,0 +1,80 @@
+# IUD, MfrDB1265
+# Objects(16):
+# Object: \frac_1 . 
+N, 16, -, 1.0
+# Object: \sqrt_1 . 
+N, 3, \sqrt, 1.0
+# Object: \sqrt_2 . 
+N, 18, \sqrt, 1.0
+# Object: 1_1 . 
+N, 15, 1, 1.0
+# Object: \infty_1 . 
+N, 2, \infty, 1.0
+# Object: \int_1 . 
+N, 0, \int, 1.0
+# Object: 2_1 . 
+N, 17, 2, 1.0
+# Object: 0_1 . 
+N, 1, 0, 1.0
+# Object: \pi_1 . 
+N, 19, \pi, 1.0
+N, 20, \pi, 1.0
+N, 21, \pi, 1.0
+E, 19, 20, \pi, 1.0
+E, 19, 21, \pi, 1.0
+E, 20, 19, \pi, 1.0
+E, 20, 21, \pi, 1.0
+E, 21, 19, \pi, 1.0
+E, 21, 20, \pi, 1.0
+# Object: x_2 . 
+N, 8, x, 1.0
+N, 9, x, 1.0
+E, 8, 9, x, 1.0
+E, 9, 8, x, 1.0
+# Object: x_3 . 
+N, 11, x, 1.0
+N, 12, x, 1.0
+E, 11, 12, x, 1.0
+E, 12, 11, x, 1.0
+# Object: e_1 . 
+N, 6, e, 1.0
+# Object: d_1 . 
+N, 10, d, 1.0
+# Object: =_1 . 
+N, 13, =, 1.0
+N, 14, =, 1.0
+E, 13, 14, =, 1.0
+E, 14, 13, =, 1.0
+# Object: x_1 . 
+N, 4, x, 1.0
+N, 5, x, 1.0
+E, 4, 5, x, 1.0
+E, 5, 4, x, 1.0
+# Object: -_1 . 
+N, 7, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Below, 1.0
+E, 0, 2, Above, 1.0
+E, 0, 3, Right, 1.0
+E, 3, 4, Inside, 1.0
+E, 3, 5, Inside, 1.0
+E, 3, 6, Right, 1.0
+E, 6, 7, Sup, 1.0
+E, 6, 10, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 11, 14, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 13, 16, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 16, 15, Above, 1.0
+E, 16, 17, Below, 1.0
+E, 16, 18, Right, 1.0
+E, 18, 19, Inside, 1.0
+E, 18, 20, Inside, 1.0
+E, 18, 21, Inside, 1.0

@@ -1,0 +1,17 @@
+# IUD, 2013_IVC_CROHME_F9_E71
+# Objects(3):
+# Object: mu_1 . 
+N, 4, \mu, 1.0
+# Object: T_1 . 
+N, 0, T, 1.0
+N, 1, T, 1.0
+E, 0, 1, T, 1.0
+E, 1, 0, T, 1.0
+# Object: mu_2 . 
+N, 3, \mu, 1.0
+
+# Relations from SRT:
+E, 0, 3, Sup, 1.0
+E, 0, 4, Sub, 1.0
+E, 1, 3, Sup, 1.0
+E, 1, 4, Sub, 1.0

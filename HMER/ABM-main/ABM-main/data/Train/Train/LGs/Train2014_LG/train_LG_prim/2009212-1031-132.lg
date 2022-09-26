@@ -1,0 +1,88 @@
+# IUD, "2009212-1031-132.ink"
+# Objects(15):
+# Object: 6:7:8: . 
+N, 6, H, 1.0
+N, 7, H, 1.0
+N, 8, H, 1.0
+E, 6, 7, H, 1.0
+E, 6, 8, H, 1.0
+E, 7, 6, H, 1.0
+E, 7, 8, H, 1.0
+E, 8, 6, H, 1.0
+E, 8, 7, H, 1.0
+# Object: 0: . 
+N, 0, \sum, 1.0
+# Object: 14: . 
+N, 14, \int, 1.0
+# Object: 11: . 
+N, 11, ., 1.0
+# Object: 20: . 
+N, 20, d, 1.0
+# Object: 9: . 
+N, 9, ., 1.0
+# Object: 3:4: . 
+N, 3, \geq, 1.0
+N, 4, \geq, 1.0
+E, 3, 4, \geq, 1.0
+E, 4, 3, \geq, 1.0
+# Object: 18: . 
+N, 18, -, 1.0
+# Object: 12:13: . 
+N, 12, +, 1.0
+N, 13, +, 1.0
+E, 12, 13, +, 1.0
+E, 13, 12, +, 1.0
+# Object: 5: . 
+N, 5, \sum, 1.0
+# Object: 10: . 
+N, 10, ., 1.0
+# Object: 19: . 
+N, 19, b, 1.0
+# Object: 1:2: . 
+N, 1, \Delta, 1.0
+N, 2, \Delta, 1.0
+E, 1, 2, \Delta, 1.0
+E, 2, 1, \Delta, 1.0
+# Object: 15:16:17: . 
+N, 15, H, 1.0
+N, 16, H, 1.0
+N, 17, H, 1.0
+E, 15, 16, H, 1.0
+E, 15, 17, H, 1.0
+E, 16, 15, H, 1.0
+E, 16, 17, H, 1.0
+E, 17, 15, H, 1.0
+E, 17, 16, H, 1.0
+# Object: 21:22: . 
+N, 21, T, 1.0
+N, 22, T, 1.0
+E, 21, 22, T, 1.0
+E, 22, 21, T, 1.0
+
+# Relations from SRT:
+E, 0, 1, Below, 1.0
+E, 0, 2, Below, 1.0
+E, 0, 9, Right, 1.0
+E, 1, 3, Right, 1.0
+E, 1, 4, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 5, 8, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 14, 18, Right, 1.0
+E, 18, 15, Above, 1.0
+E, 18, 16, Above, 1.0
+E, 18, 17, Above, 1.0
+E, 18, 19, Below, 1.0
+E, 18, 20, Right, 1.0
+E, 20, 21, Right, 1.0
+E, 20, 22, Right, 1.0

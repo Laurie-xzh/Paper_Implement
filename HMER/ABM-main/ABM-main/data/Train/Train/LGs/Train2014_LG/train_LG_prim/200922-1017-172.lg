@@ -1,0 +1,22 @@
+# IUD, "200922-1017-172.ink"
+# Objects(5):
+# Object: 4: . 
+N, 4, -, 1.0
+# Object: 0:1: . 
+N, 0, \theta, 1.0
+N, 1, \theta, 1.0
+E, 0, 1, \theta, 1.0
+E, 1, 0, \theta, 1.0
+# Object: 5: . 
+N, 5, 3, 1.0
+# Object: 2: . 
+N, 2, -, 1.0
+# Object: 3: . 
+N, 3, m, 1.0
+
+# Relations from SRT:
+E, 2, 0, Above, 1.0
+E, 2, 1, Above, 1.0
+E, 2, 3, Below, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0

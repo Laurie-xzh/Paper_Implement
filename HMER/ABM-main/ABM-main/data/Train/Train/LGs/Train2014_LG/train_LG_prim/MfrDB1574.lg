@@ -1,0 +1,93 @@
+# IUD, MfrDB1574
+# Objects(13):
+# Object: 2_2 . 
+N, 13, 2, 1.0
+# Object: \pi_1 . 
+N, 16, \pi, 1.0
+N, 17, \pi, 1.0
+N, 18, \pi, 1.0
+E, 16, 17, \pi, 1.0
+E, 16, 18, \pi, 1.0
+E, 17, 16, \pi, 1.0
+E, 17, 18, \pi, 1.0
+E, 18, 16, \pi, 1.0
+E, 18, 17, \pi, 1.0
+# Object: \infty_1 . 
+N, 2, \infty, 1.0
+# Object: \int_1 . 
+N, 0, \int, 1.0
+# Object: 0_1 . 
+N, 1, 0, 1.0
+# Object: \frac_2 . 
+N, 19, -, 1.0
+# Object: =_1 . 
+N, 14, =, 1.0
+N, 15, =, 1.0
+E, 14, 15, =, 1.0
+E, 15, 14, =, 1.0
+# Object: \frac_1 . 
+N, 10, -, 1.0
+# Object: 2_1 . 
+N, 7, 2, 1.0
+# Object: 2_3 . 
+N, 20, 2, 1.0
+# Object: \sin_1 . 
+N, 3, \sin, 1.0
+N, 4, \sin, 1.0
+N, 5, \sin, 1.0
+N, 6, \sin, 1.0
+E, 3, 4, \sin, 1.0
+E, 3, 5, \sin, 1.0
+E, 3, 6, \sin, 1.0
+E, 4, 3, \sin, 1.0
+E, 4, 5, \sin, 1.0
+E, 4, 6, \sin, 1.0
+E, 5, 3, \sin, 1.0
+E, 5, 4, \sin, 1.0
+E, 5, 6, \sin, 1.0
+E, 6, 3, \sin, 1.0
+E, 6, 4, \sin, 1.0
+E, 6, 5, \sin, 1.0
+# Object: x_2 . 
+N, 11, x, 1.0
+N, 12, x, 1.0
+E, 11, 12, x, 1.0
+E, 12, 11, x, 1.0
+# Object: x_1 . 
+N, 8, x, 1.0
+N, 9, x, 1.0
+E, 8, 9, x, 1.0
+E, 9, 8, x, 1.0
+
+# Relations from SRT:
+E, 0, 1, Below, 1.0
+E, 0, 2, Above, 1.0
+E, 0, 10, Right, 1.0
+E, 3, 7, Sup, 1.0
+E, 3, 8, Right, 1.0
+E, 3, 9, Right, 1.0
+E, 4, 7, Sup, 1.0
+E, 4, 8, Right, 1.0
+E, 4, 9, Right, 1.0
+E, 5, 7, Sup, 1.0
+E, 5, 8, Right, 1.0
+E, 5, 9, Right, 1.0
+E, 6, 7, Sup, 1.0
+E, 6, 8, Right, 1.0
+E, 6, 9, Right, 1.0
+E, 10, 3, Above, 1.0
+E, 10, 4, Above, 1.0
+E, 10, 5, Above, 1.0
+E, 10, 6, Above, 1.0
+E, 10, 11, Below, 1.0
+E, 10, 12, Below, 1.0
+E, 10, 14, Right, 1.0
+E, 10, 15, Right, 1.0
+E, 11, 13, Sup, 1.0
+E, 12, 13, Sup, 1.0
+E, 14, 19, Right, 1.0
+E, 15, 19, Right, 1.0
+E, 19, 16, Above, 1.0
+E, 19, 17, Above, 1.0
+E, 19, 18, Above, 1.0
+E, 19, 20, Below, 1.0

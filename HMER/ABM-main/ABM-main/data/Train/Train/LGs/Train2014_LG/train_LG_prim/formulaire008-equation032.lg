@@ -1,0 +1,27 @@
+# IUD, 2011_IVC_depart_F008_E032
+# Objects(6):
+# Object: s_1 . 
+N, 5, s, 1.0
+# Object: 1_1 . 
+N, 2, 1, 1.0
+# Object: p_2 . 
+N, 4, p, 1.0
+# Object: \sum_1 . 
+N, 0, \sum, 1.0
+# Object: p_1 . 
+N, 1, p, 1.0
+# Object: _1 . 
+N, 3, -, 1.0
+N, 6, -, 1.0
+E, 3, 6, -, 1.0
+E, 6, 3, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Below, 1.0
+E, 0, 3, Right, 1.0
+E, 0, 6, Right, 1.0
+E, 3, 2, Above, 1.0
+E, 3, 4, Below, 1.0
+E, 4, 5, Sup, 1.0
+E, 6, 2, Above, 1.0
+E, 6, 4, Below, 1.0

@@ -1,0 +1,58 @@
+# IUD, "200923-1251-102.ink"
+# Objects(13):
+# Object: 3: . 
+N, 3, ., 1.0
+# Object: 4: . 
+N, 4, 3, 1.0
+# Object: 0:1: . 
+N, 0, \sum, 1.0
+N, 1, \sum, 1.0
+E, 0, 1, \sum, 1.0
+E, 1, 0, \sum, 1.0
+# Object: 10:11: . 
+N, 10, x, 1.0
+N, 11, x, 1.0
+E, 10, 11, x, 1.0
+E, 11, 10, x, 1.0
+# Object: 5: . 
+N, 5, -, 1.0
+# Object: 9: . 
+N, 9, d, 1.0
+# Object: 12: . 
+N, 12, \Delta, 1.0
+# Object: 8: . 
+N, 8, v, 1.0
+# Object: 2: . 
+N, 2, 8, 1.0
+# Object: 13:14: . 
+N, 13, +, 1.0
+N, 14, +, 1.0
+E, 13, 14, +, 1.0
+E, 14, 13, +, 1.0
+# Object: 6: . 
+N, 6, \int, 1.0
+# Object: 7: . 
+N, 7, d, 1.0
+# Object: 15: . 
+N, 15, 7, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Sub, 1.0
+E, 7, 9, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 12, Sub, 1.0
+E, 10, 13, Right, 1.0
+E, 10, 14, Right, 1.0
+E, 11, 12, Sub, 1.0
+E, 11, 13, Right, 1.0
+E, 11, 14, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 14, 15, Right, 1.0

@@ -1,0 +1,64 @@
+# IUD, 2011_KME2_w7_e74
+# Objects(12):
+# Object: t_1 . 
+N, 9, t, 1.0
+N, 10, t, 1.0
+E, 9, 10, t, 1.0
+E, 10, 9, t, 1.0
+# Object: 1_2 . 
+N, 13, 1, 1.0
+# Object: t_2 . 
+N, 15, t, 1.0
+N, 16, t, 1.0
+E, 15, 16, t, 1.0
+E, 16, 15, t, 1.0
+# Object: \log_1 . 
+N, 2, \log, 1.0
+N, 3, \log, 1.0
+N, 4, \log, 1.0
+E, 2, 3, \log, 1.0
+E, 2, 4, \log, 1.0
+E, 3, 2, \log, 1.0
+E, 3, 4, \log, 1.0
+E, 4, 2, \log, 1.0
+E, 4, 3, \log, 1.0
+# Object: 3_1 . 
+N, 5, 3, 1.0
+# Object: d_1 . 
+N, 14, d, 1.0
+# Object: +_1 . 
+N, 11, +, 1.0
+N, 12, +, 1.0
+E, 11, 12, +, 1.0
+E, 12, 11, +, 1.0
+# Object: e_1 . 
+N, 8, e, 1.0
+# Object: 1_1 . 
+N, 6, 1, 1.0
+# Object: -_1 . 
+N, 7, -, 1.0
+# Object: 0_1 . 
+N, 1, 0, 1.0
+# Object: \int_1 . 
+N, 0, \int, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Sub, 1.0
+E, 0, 3, Sub, 1.0
+E, 0, 4, Sub, 1.0
+E, 0, 7, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 7, 6, Above, 1.0
+E, 7, 8, Below, 1.0
+E, 7, 14, Right, 1.0
+E, 8, 9, Sup, 1.0
+E, 8, 10, Sup, 1.0
+E, 8, 11, Right, 1.0
+E, 8, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 14, 16, Right, 1.0

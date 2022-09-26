@@ -1,0 +1,211 @@
+# IUD, 2011_IVC_depart_F019_E025
+# Objects(44):
+# Object: -_1 . 
+N, 37, -, 1.0
+# Object: 6_1 . 
+N, 24, 6, 1.0
+# Object: 4_3 . 
+N, 51, 4, 1.0
+# Object: (_5 . 
+N, 32, (, 1.0
+# Object: )_4 . 
+N, 41, ), 1.0
+# Object: 7_3 . 
+N, 40, 7, 1.0
+N, 39, 7, 1.0
+E, 40, 39, 7, 1.0
+E, 39, 40, 7, 1.0
+# Object: 0_1 . 
+N, 28, 0, 1.0
+# Object: 4_1 . 
+N, 13, 4, 1.0
+# Object: 2_3 . 
+N, 23, 2, 1.0
+# Object: 1_5 . 
+N, 47, 1, 1.0
+# Object: 7_4 . 
+N, 50, 7, 1.0
+N, 49, 7, 1.0
+E, 50, 49, 7, 1.0
+E, 49, 50, 7, 1.0
+# Object: 2_4 . 
+N, 46, 2, 1.0
+# Object: )_2 . 
+N, 16, ), 1.0
+# Object: 2_2 . 
+N, 2, 2, 1.0
+# Object: 6_2 . 
+N, 54, 6, 1.0
+# Object: (_4 . 
+N, 21, (, 1.0
+# Object: 1_1 . 
+N, 0, 1, 1.0
+# Object: +_1 . 
+N, 11, +, 1.0
+N, 10, +, 1.0
+E, 11, 10, +, 1.0
+E, 10, 11, +, 1.0
+# Object: 4_4 . 
+N, 55, 4, 1.0
+# Object: 8_1 . 
+N, 52, 8, 1.0
+# Object: 3_1 . 
+N, 53, 3, 1.0
+# Object: +_2 . 
+N, 19, +, 1.0
+N, 18, +, 1.0
+E, 19, 18, +, 1.0
+E, 18, 19, +, 1.0
+# Object: 1_3 . 
+N, 22, 1, 1.0
+# Object: 1_4 . 
+N, 33, 1, 1.0
+# Object: 1_2 . 
+N, 6, 1, 1.0
+# Object: 9_4 . 
+N, 38, 9, 1.0
+# Object: 2_1 . 
+N, 1, 2, 1.0
+# Object: 9_3 . 
+N, 36, 9, 1.0
+# Object: \div_2 . 
+N, 25, \div, 1.0
+N, 26, \div, 1.0
+N, 27, \div, 1.0
+E, 25, 26, \div, 1.0
+E, 25, 27, \div, 1.0
+E, 26, 25, \div, 1.0
+E, 26, 27, \div, 1.0
+E, 27, 25, \div, 1.0
+E, 27, 26, \div, 1.0
+# Object: (_1 . 
+N, 17, (, 1.0
+# Object: )_1 . 
+N, 15, ), 1.0
+# Object: 9_2 . 
+N, 12, 9, 1.0
+# Object: )_5 . 
+N, 42, ), 1.0
+# Object: 9_1 . 
+N, 7, 9, 1.0
+# Object: (_2 . 
+N, 14, (, 1.0
+# Object: 7_5 . 
+N, 57, 7, 1.0
+N, 56, 7, 1.0
+E, 57, 56, 7, 1.0
+E, 56, 57, 7, 1.0
+# Object: \div_1 . 
+N, 4, \div, 1.0
+N, 3, \div, 1.0
+N, 5, \div, 1.0
+E, 4, 3, \div, 1.0
+E, 4, 5, \div, 1.0
+E, 3, 4, \div, 1.0
+E, 3, 5, \div, 1.0
+E, 5, 4, \div, 1.0
+E, 5, 3, \div, 1.0
+# Object: \times_1 . 
+N, 31, \times, 1.0
+N, 30, \times, 1.0
+E, 31, 30, \times, 1.0
+E, 30, 31, \times, 1.0
+# Object: 4_2 . 
+N, 48, 4, 1.0
+# Object: )_3 . 
+N, 29, ), 1.0
+# Object: 7_1 . 
+N, 9, 7, 1.0
+N, 8, 7, 1.0
+E, 9, 8, 7, 1.0
+E, 8, 9, 7, 1.0
+# Object: 7_2 . 
+N, 35, 7, 1.0
+N, 34, 7, 1.0
+E, 35, 34, 7, 1.0
+E, 34, 35, 7, 1.0
+# Object: \neq_1 . 
+N, 45, \neq, 1.0
+N, 43, \neq, 1.0
+N, 44, \neq, 1.0
+E, 45, 43, \neq, 1.0
+E, 45, 44, \neq, 1.0
+E, 43, 45, \neq, 1.0
+E, 43, 44, \neq, 1.0
+E, 44, 45, \neq, 1.0
+E, 44, 43, \neq, 1.0
+# Object: (_3 . 
+N, 20, (, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 3, 14, Right, 1.0
+E, 4, 14, Right, 1.0
+E, 5, 14, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 14, 6, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 16, 18, Right, 1.0
+E, 16, 19, Right, 1.0
+E, 17, 0, Right, 1.0
+E, 18, 20, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 20, 21, Right, 1.0
+E, 21, 22, Right, 1.0
+E, 22, 23, Right, 1.0
+E, 23, 24, Right, 1.0
+E, 24, 25, Right, 1.0
+E, 24, 26, Right, 1.0
+E, 24, 27, Right, 1.0
+E, 25, 28, Right, 1.0
+E, 26, 28, Right, 1.0
+E, 27, 28, Right, 1.0
+E, 28, 29, Right, 1.0
+E, 29, 30, Right, 1.0
+E, 29, 31, Right, 1.0
+E, 30, 32, Right, 1.0
+E, 31, 32, Right, 1.0
+E, 32, 33, Right, 1.0
+E, 33, 34, Right, 1.0
+E, 33, 35, Right, 1.0
+E, 34, 36, Right, 1.0
+E, 35, 36, Right, 1.0
+E, 36, 37, Right, 1.0
+E, 37, 38, Right, 1.0
+E, 38, 39, Right, 1.0
+E, 38, 40, Right, 1.0
+E, 39, 41, Right, 1.0
+E, 40, 41, Right, 1.0
+E, 41, 42, Right, 1.0
+E, 42, 43, Right, 1.0
+E, 42, 44, Right, 1.0
+E, 42, 45, Right, 1.0
+E, 43, 46, Right, 1.0
+E, 44, 46, Right, 1.0
+E, 45, 46, Right, 1.0
+E, 46, 47, Right, 1.0
+E, 47, 48, Right, 1.0
+E, 48, 49, Right, 1.0
+E, 48, 50, Right, 1.0
+E, 49, 51, Right, 1.0
+E, 50, 51, Right, 1.0
+E, 51, 52, Right, 1.0
+E, 52, 53, Right, 1.0
+E, 53, 54, Right, 1.0
+E, 54, 55, Right, 1.0
+E, 55, 56, Right, 1.0
+E, 55, 57, Right, 1.0

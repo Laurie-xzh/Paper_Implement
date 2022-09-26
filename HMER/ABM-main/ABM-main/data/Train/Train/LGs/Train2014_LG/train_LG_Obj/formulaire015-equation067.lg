@@ -1,0 +1,25 @@
+# IUD, 2011_IVC_depart_F015_E067
+# Objects(11):
+O, 5_2, 5, 1.0, 14, 15
+O, _1, -, 1.0, 7
+O, COMMA_1, COMMA, 1.0, 12
+O, =_1, =, 1.0, 1, 2
+O, 2_2, 2, 1.0, 13
+O, 5_1, 5, 1.0, 10, 11
+O, \alpha_1, \alpha, 1.0, 0
+O, 2_1, 2, 1.0, 3
+O, 6_1, 6, 1.0, 9
+O, \pi_1, \pi, 1.0, 6, 5, 4
+O, 3_1, 3, 1.0, 8
+
+# Relations from SRT:
+EO, 2_1, \pi_1, Right, 1.0
+EO, 2_2, 5_2, Right, 1.0
+EO, 3_1, 6_1, Right, 1.0
+EO, 5_1, COMMA_1, Right, 1.0
+EO, 6_1, 5_1, Right, 1.0
+EO, =_1, _1, Right, 1.0
+EO, COMMA_1, 2_2, Right, 1.0
+EO, \alpha_1, =_1, Right, 1.0
+EO, _1, 2_1, Above, 1.0
+EO, _1, 3_1, Below, 1.0

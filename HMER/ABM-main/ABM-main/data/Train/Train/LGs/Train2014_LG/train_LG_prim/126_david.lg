@@ -1,0 +1,90 @@
+# IUD, 126_david
+# Objects(24):
+# Object: n_3 . 
+N, 15, n, 1.0
+# Object: q_3 . 
+N, 16, q, 1.0
+# Object: 1_3 . 
+N, 22, 1, 1.0
+# Object: |_2 . 
+N, 9, |, 1.0
+# Object: n_5 . 
+N, 25, n, 1.0
+# Object: 1_2 . 
+N, 20, 1, 1.0
+# Object: <_1 . 
+N, 21, \lt, 1.0
+# Object: p_1 . 
+N, 3, p, 1.0
+N, 4, p, 1.0
+E, 3, 4, p, 1.0
+E, 4, 3, p, 1.0
+# Object: 1_1 . 
+N, 12, 1, 1.0
+# Object: 2_1 . 
+N, 26, 2, 1.0
+# Object: q_4 . 
+N, 24, q, 1.0
+# Object: le_1 . 
+N, 10, \leq, 1.0
+N, 11, \leq, 1.0
+E, 10, 11, \leq, 1.0
+E, 11, 10, \leq, 1.0
+# Object: +_1 . 
+N, 18, +, 1.0
+N, 19, +, 1.0
+E, 18, 19, +, 1.0
+E, 19, 18, +, 1.0
+# Object: |_1 . 
+N, 0, |, 1.0
+# Object: n_2 . 
+N, 8, n, 1.0
+# Object: _1 . 
+N, 6, -, 1.0
+# Object: n_1 . 
+N, 5, n, 1.0
+# Object: q_1 . 
+N, 7, q, 1.0
+# Object: -_1 . 
+N, 2, -, 1.0
+# Object: _2 . 
+N, 13, -, 1.0
+# Object: q_2 . 
+N, 14, q, 1.0
+# Object: n_4 . 
+N, 17, n, 1.0
+# Object: x_1 . 
+N, 1, x, 1.0
+# Object: _3 . 
+N, 23, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 6, Right, 1.0
+E, 3, 5, Sub, 1.0
+E, 4, 5, Sub, 1.0
+E, 6, 3, Above, 1.0
+E, 6, 4, Above, 1.0
+E, 6, 7, Below, 1.0
+E, 6, 9, Right, 1.0
+E, 7, 8, Sub, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 13, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 13, 12, Above, 1.0
+E, 13, 14, Below, 1.0
+E, 13, 21, Right, 1.0
+E, 14, 15, Sub, 1.0
+E, 14, 16, Right, 1.0
+E, 16, 17, Sub, 1.0
+E, 17, 18, Right, 1.0
+E, 17, 19, Right, 1.0
+E, 18, 20, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 21, 23, Right, 1.0
+E, 23, 22, Above, 1.0
+E, 23, 24, Below, 1.0
+E, 24, 25, Sub, 1.0
+E, 24, 26, Sup, 1.0

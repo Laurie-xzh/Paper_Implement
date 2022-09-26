@@ -1,0 +1,132 @@
+# IUD, 94_Frank
+# Objects(14):
+# Object: B_1 . 
+N, 16, B, 1.0
+N, 17, B, 1.0
+E, 16, 17, B, 1.0
+E, 17, 16, B, 1.0
+# Object: A_1 . 
+N, 6, A, 1.0
+N, 7, A, 1.0
+E, 6, 7, A, 1.0
+E, 7, 6, A, 1.0
+# Object: c_1 . 
+N, 20, c, 1.0
+# Object: =_2 . 
+N, 18, =, 1.0
+N, 19, =, 1.0
+E, 18, 19, =, 1.0
+E, 19, 18, =, 1.0
+# Object: sin_1 . 
+N, 5, \sin, 1.0
+N, 3, \sin, 1.0
+N, 4, \sin, 1.0
+N, 2, \sin, 1.0
+E, 5, 3, \sin, 1.0
+E, 5, 4, \sin, 1.0
+E, 5, 2, \sin, 1.0
+E, 3, 5, \sin, 1.0
+E, 3, 4, \sin, 1.0
+E, 3, 2, \sin, 1.0
+E, 4, 5, \sin, 1.0
+E, 4, 3, \sin, 1.0
+E, 4, 2, \sin, 1.0
+E, 2, 5, \sin, 1.0
+E, 2, 3, \sin, 1.0
+E, 2, 4, \sin, 1.0
+# Object: sin_2 . 
+N, 15, \sin, 1.0
+N, 13, \sin, 1.0
+N, 14, \sin, 1.0
+N, 12, \sin, 1.0
+E, 15, 13, \sin, 1.0
+E, 15, 14, \sin, 1.0
+E, 15, 12, \sin, 1.0
+E, 13, 15, \sin, 1.0
+E, 13, 14, \sin, 1.0
+E, 13, 12, \sin, 1.0
+E, 14, 15, \sin, 1.0
+E, 14, 13, \sin, 1.0
+E, 14, 12, \sin, 1.0
+E, 12, 15, \sin, 1.0
+E, 12, 13, \sin, 1.0
+E, 12, 14, \sin, 1.0
+# Object: _2 . 
+N, 11, -, 1.0
+# Object: b_1 . 
+N, 10, b, 1.0
+# Object: _1 . 
+N, 1, -, 1.0
+# Object: sin_3 . 
+N, 25, \sin, 1.0
+N, 23, \sin, 1.0
+N, 24, \sin, 1.0
+N, 22, \sin, 1.0
+E, 25, 23, \sin, 1.0
+E, 25, 24, \sin, 1.0
+E, 25, 22, \sin, 1.0
+E, 23, 25, \sin, 1.0
+E, 23, 24, \sin, 1.0
+E, 23, 22, \sin, 1.0
+E, 24, 25, \sin, 1.0
+E, 24, 23, \sin, 1.0
+E, 24, 22, \sin, 1.0
+E, 22, 25, \sin, 1.0
+E, 22, 23, \sin, 1.0
+E, 22, 24, \sin, 1.0
+# Object: a_1 . 
+N, 0, a, 1.0
+# Object: C_1 . 
+N, 26, C, 1.0
+# Object: =_1 . 
+N, 8, =, 1.0
+N, 9, =, 1.0
+E, 8, 9, =, 1.0
+E, 9, 8, =, 1.0
+# Object: _3 . 
+N, 21, -, 1.0
+
+# Relations from SRT:
+E, 1, 0, Above, 1.0
+E, 1, 2, Below, 1.0
+E, 1, 3, Below, 1.0
+E, 1, 4, Below, 1.0
+E, 1, 5, Below, 1.0
+E, 1, 8, Right, 1.0
+E, 1, 9, Right, 1.0
+E, 2, 6, Right, 1.0
+E, 2, 7, Right, 1.0
+E, 3, 6, Right, 1.0
+E, 3, 7, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 4, 7, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 11, 10, Above, 1.0
+E, 11, 12, Below, 1.0
+E, 11, 13, Below, 1.0
+E, 11, 14, Below, 1.0
+E, 11, 15, Below, 1.0
+E, 11, 18, Right, 1.0
+E, 11, 19, Right, 1.0
+E, 12, 16, Right, 1.0
+E, 12, 17, Right, 1.0
+E, 13, 16, Right, 1.0
+E, 13, 17, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 14, 17, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 15, 17, Right, 1.0
+E, 18, 21, Right, 1.0
+E, 19, 21, Right, 1.0
+E, 21, 20, Above, 1.0
+E, 21, 22, Below, 1.0
+E, 21, 23, Below, 1.0
+E, 21, 24, Below, 1.0
+E, 21, 25, Below, 1.0
+E, 22, 26, Right, 1.0
+E, 23, 26, Right, 1.0
+E, 24, 26, Right, 1.0
+E, 25, 26, Right, 1.0

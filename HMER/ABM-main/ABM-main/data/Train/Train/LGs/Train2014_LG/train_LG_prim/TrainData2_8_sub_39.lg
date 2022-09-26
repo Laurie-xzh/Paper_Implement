@@ -1,0 +1,112 @@
+# IUD, 2011_KAIST_Data2_8_sub_39
+# Objects(12):
+# Object: -_1 . 
+N, 2, -, 1.0
+# Object: \sin_2 . 
+N, 11, \sin, 1.0
+N, 12, \sin, 1.0
+N, 13, \sin, 1.0
+N, 14, \sin, 1.0
+E, 11, 12, \sin, 1.0
+E, 11, 13, \sin, 1.0
+E, 11, 14, \sin, 1.0
+E, 12, 11, \sin, 1.0
+E, 12, 13, \sin, 1.0
+E, 12, 14, \sin, 1.0
+E, 13, 11, \sin, 1.0
+E, 13, 12, \sin, 1.0
+E, 13, 14, \sin, 1.0
+E, 14, 11, \sin, 1.0
+E, 14, 12, \sin, 1.0
+E, 14, 13, \sin, 1.0
+# Object: x_2 . 
+N, 6, x, 1.0
+N, 7, x, 1.0
+E, 6, 7, x, 1.0
+E, 7, 6, x, 1.0
+# Object: -_2 . 
+N, 4, -, 1.0
+# Object: x_1 . 
+N, 0, x, 1.0
+N, 1, x, 1.0
+E, 0, 1, x, 1.0
+E, 1, 0, x, 1.0
+# Object: y_1 . 
+N, 3, y, 1.0
+# Object: \sin_1 . 
+N, 15, \sin, 1.0
+N, 16, \sin, 1.0
+N, 17, \sin, 1.0
+N, 18, \sin, 1.0
+E, 15, 16, \sin, 1.0
+E, 15, 17, \sin, 1.0
+E, 15, 18, \sin, 1.0
+E, 16, 15, \sin, 1.0
+E, 16, 17, \sin, 1.0
+E, 16, 18, \sin, 1.0
+E, 17, 15, \sin, 1.0
+E, 17, 16, \sin, 1.0
+E, 17, 18, \sin, 1.0
+E, 18, 15, \sin, 1.0
+E, 18, 16, \sin, 1.0
+E, 18, 17, \sin, 1.0
+# Object: y_2 . 
+N, 9, y, 1.0
+# Object: \sin_3 . 
+N, 19, \sin, 1.0
+N, 20, \sin, 1.0
+N, 21, \sin, 1.0
+N, 22, \sin, 1.0
+E, 19, 20, \sin, 1.0
+E, 19, 21, \sin, 1.0
+E, 19, 22, \sin, 1.0
+E, 20, 19, \sin, 1.0
+E, 20, 21, \sin, 1.0
+E, 20, 22, \sin, 1.0
+E, 21, 19, \sin, 1.0
+E, 21, 20, \sin, 1.0
+E, 21, 22, \sin, 1.0
+E, 22, 19, \sin, 1.0
+E, 22, 20, \sin, 1.0
+E, 22, 21, \sin, 1.0
+# Object: (_1 . 
+N, 5, (, 1.0
+# Object: )_1 . 
+N, 10, ), 1.0
+# Object: -_3 . 
+N, 8, -, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 11, Right, 1.0
+E, 2, 12, Right, 1.0
+E, 2, 13, Right, 1.0
+E, 2, 14, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 19, Right, 1.0
+E, 4, 20, Right, 1.0
+E, 4, 21, Right, 1.0
+E, 4, 22, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 11, 3, Right, 1.0
+E, 12, 3, Right, 1.0
+E, 13, 3, Right, 1.0
+E, 14, 3, Right, 1.0
+E, 15, 0, Right, 1.0
+E, 15, 1, Right, 1.0
+E, 16, 0, Right, 1.0
+E, 16, 1, Right, 1.0
+E, 17, 0, Right, 1.0
+E, 17, 1, Right, 1.0
+E, 18, 0, Right, 1.0
+E, 18, 1, Right, 1.0
+E, 19, 5, Right, 1.0
+E, 20, 5, Right, 1.0
+E, 21, 5, Right, 1.0
+E, 22, 5, Right, 1.0

@@ -1,0 +1,52 @@
+# IUD, "2009213-137-201.ink"
+# Objects(3):
+# Object: 5: . 
+N, 5, d, 1.0
+# Object: 6:7: . 
+N, 6, Y, 1.0
+N, 7, Y, 1.0
+E, 6, 7, Y, 1.0
+E, 7, 6, Y, 1.0
+# Object: 0:1:2:3:4: . 
+N, 0, \tan, 1.0
+N, 1, \tan, 1.0
+N, 2, \tan, 1.0
+N, 3, \tan, 1.0
+N, 4, \tan, 1.0
+E, 0, 1, \tan, 1.0
+E, 0, 2, \tan, 1.0
+E, 0, 3, \tan, 1.0
+E, 0, 4, \tan, 1.0
+E, 1, 0, \tan, 1.0
+E, 1, 2, \tan, 1.0
+E, 1, 3, \tan, 1.0
+E, 1, 4, \tan, 1.0
+E, 2, 0, \tan, 1.0
+E, 2, 1, \tan, 1.0
+E, 2, 3, \tan, 1.0
+E, 2, 4, \tan, 1.0
+E, 3, 0, \tan, 1.0
+E, 3, 1, \tan, 1.0
+E, 3, 2, \tan, 1.0
+E, 3, 4, \tan, 1.0
+E, 4, 0, \tan, 1.0
+E, 4, 1, \tan, 1.0
+E, 4, 2, \tan, 1.0
+E, 4, 3, \tan, 1.0
+
+# Relations from SRT:
+E, 0, 5, Sup, 1.0
+E, 0, 6, Right, 1.0
+E, 0, 7, Right, 1.0
+E, 1, 5, Sup, 1.0
+E, 1, 6, Right, 1.0
+E, 1, 7, Right, 1.0
+E, 2, 5, Sup, 1.0
+E, 2, 6, Right, 1.0
+E, 2, 7, Right, 1.0
+E, 3, 5, Sup, 1.0
+E, 3, 6, Right, 1.0
+E, 3, 7, Right, 1.0
+E, 4, 5, Sup, 1.0
+E, 4, 6, Right, 1.0
+E, 4, 7, Right, 1.0

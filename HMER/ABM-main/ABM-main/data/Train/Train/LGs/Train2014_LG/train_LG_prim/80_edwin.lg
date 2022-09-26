@@ -1,0 +1,84 @@
+# IUD, 80_edwin
+# Objects(22):
+# Object: 1_3 . 
+N, 16, 1, 1.0
+# Object: R_2 . 
+N, 19, R, 1.0
+# Object: (_1 . 
+N, 11, (, 1.0
+# Object: +_2 . 
+N, 20, +, 1.0
+N, 21, +, 1.0
+E, 20, 21, +, 1.0
+E, 21, 20, +, 1.0
+# Object: _3 . 
+N, 17, -, 1.0
+# Object: -_1 . 
+N, 9, -, 1.0
+# Object: R_1 . 
+N, 8, R, 1.0
+# Object: 2_3 . 
+N, 24, 2, 1.0
+# Object: m_2 . 
+N, 22, m, 1.0
+# Object: 2_1 . 
+N, 3, 2, 1.0
+# Object: m_1 . 
+N, 10, m, 1.0
+# Object: _2 . 
+N, 7, -, 1.0
+# Object: 1_1 . 
+N, 0, 1, 1.0
+# Object: +_1 . 
+N, 14, +, 1.0
+N, 15, +, 1.0
+E, 14, 15, +, 1.0
+E, 15, 14, +, 1.0
+# Object: r_1 . 
+N, 2, r, 1.0
+# Object: 2_2 . 
+N, 13, 2, 1.0
+# Object: =_1 . 
+N, 4, =, 1.0
+N, 5, =, 1.0
+E, 4, 5, =, 1.0
+E, 5, 4, =, 1.0
+# Object: 1_2 . 
+N, 6, 1, 1.0
+# Object: )_2 . 
+N, 23, ), 1.0
+# Object: (_2 . 
+N, 18, (, 1.0
+# Object: _1 . 
+N, 1, -, 1.0
+# Object: )_1 . 
+N, 12, ), 1.0
+
+# Relations from SRT:
+E, 1, 0, Above, 1.0
+E, 1, 2, Below, 1.0
+E, 1, 4, Right, 1.0
+E, 1, 5, Right, 1.0
+E, 2, 3, Sup, 1.0
+E, 4, 7, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 7, 6, Above, 1.0
+E, 7, 11, Below, 1.0
+E, 7, 14, Right, 1.0
+E, 7, 15, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 8, Right, 1.0
+E, 12, 13, Sup, 1.0
+E, 14, 17, Right, 1.0
+E, 15, 17, Right, 1.0
+E, 17, 16, Above, 1.0
+E, 17, 18, Below, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 19, 21, Right, 1.0
+E, 20, 22, Right, 1.0
+E, 21, 22, Right, 1.0
+E, 22, 23, Right, 1.0
+E, 23, 24, Sup, 1.0

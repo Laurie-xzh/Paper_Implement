@@ -1,0 +1,171 @@
+# IUD, MfrDB1867
+# Objects(23):
+# Object: \lim_1 . 
+N, 15, \lim, 1.0
+N, 14, \lim, 1.0
+N, 16, \lim, 1.0
+N, 21, \lim, 1.0
+N, 22, \lim, 1.0
+E, 15, 14, \lim, 1.0
+E, 15, 16, \lim, 1.0
+E, 15, 21, \lim, 1.0
+E, 15, 22, \lim, 1.0
+E, 14, 15, \lim, 1.0
+E, 14, 16, \lim, 1.0
+E, 14, 21, \lim, 1.0
+E, 14, 22, \lim, 1.0
+E, 16, 15, \lim, 1.0
+E, 16, 14, \lim, 1.0
+E, 16, 21, \lim, 1.0
+E, 16, 22, \lim, 1.0
+E, 21, 15, \lim, 1.0
+E, 21, 14, \lim, 1.0
+E, 21, 16, \lim, 1.0
+E, 21, 22, \lim, 1.0
+E, 22, 15, \lim, 1.0
+E, 22, 14, \lim, 1.0
+E, 22, 16, \lim, 1.0
+E, 22, 21, \lim, 1.0
+# Object: b_2 . 
+N, 25, b, 1.0
+# Object: \infty_2 . 
+N, 19, \infty, 1.0
+# Object: 0_2 . 
+N, 24, 0, 1.0
+# Object: \int_1 . 
+N, 0, \int, 1.0
+# Object: )_1 . 
+N, 8, ), 1.0
+# Object: d_2 . 
+N, 34, d, 1.0
+# Object: x_1 . 
+N, 6, x, 1.0
+N, 7, x, 1.0
+E, 6, 7, x, 1.0
+E, 7, 6, x, 1.0
+# Object: d_1 . 
+N, 9, d, 1.0
+# Object: x_3 . 
+N, 30, x, 1.0
+N, 31, x, 1.0
+E, 30, 31, x, 1.0
+E, 31, 30, x, 1.0
+# Object: f_2 . 
+N, 26, f, 1.0
+N, 27, f, 1.0
+N, 28, f, 1.0
+E, 26, 27, f, 1.0
+E, 26, 28, f, 1.0
+E, 27, 26, f, 1.0
+E, 27, 28, f, 1.0
+E, 28, 26, f, 1.0
+E, 28, 27, f, 1.0
+# Object: x_4 . 
+N, 35, x, 1.0
+N, 36, x, 1.0
+E, 35, 36, x, 1.0
+E, 36, 35, x, 1.0
+# Object: 0_1 . 
+N, 1, 0, 1.0
+# Object: \int_2 . 
+N, 23, \int, 1.0
+# Object: x_2 . 
+N, 10, x, 1.0
+N, 11, x, 1.0
+E, 10, 11, x, 1.0
+E, 11, 10, x, 1.0
+# Object: (_2 . 
+N, 29, (, 1.0
+N, 32, (, 1.0
+E, 29, 32, (, 1.0
+E, 32, 29, (, 1.0
+# Object: b_1 . 
+N, 17, b, 1.0
+N, 20, b, 1.0
+E, 17, 20, b, 1.0
+E, 20, 17, b, 1.0
+# Object: =_1 . 
+N, 12, =, 1.0
+N, 13, =, 1.0
+E, 12, 13, =, 1.0
+E, 13, 12, =, 1.0
+# Object: \infty_1 . 
+N, 2, \infty, 1.0
+# Object: (_1 . 
+N, 5, (, 1.0
+# Object: )_2 . 
+N, 33, ), 1.0
+# Object: f_1 . 
+N, 3, f, 1.0
+N, 4, f, 1.0
+E, 3, 4, f, 1.0
+E, 4, 3, f, 1.0
+# Object: \vec_1 . 
+N, 18, \rightarrow, 1.0
+
+# Relations from SRT:
+E, 0, 1, Below, 1.0
+E, 0, 2, Above, 1.0
+E, 0, 3, Right, 1.0
+E, 0, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 10, 13, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 12, 15, Right, 1.0
+E, 12, 16, Right, 1.0
+E, 12, 21, Right, 1.0
+E, 12, 22, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 13, 16, Right, 1.0
+E, 13, 21, Right, 1.0
+E, 13, 22, Right, 1.0
+E, 14, 17, Below, 1.0
+E, 14, 20, Below, 1.0
+E, 14, 23, Right, 1.0
+E, 15, 17, Below, 1.0
+E, 15, 20, Below, 1.0
+E, 15, 23, Right, 1.0
+E, 16, 17, Below, 1.0
+E, 16, 20, Below, 1.0
+E, 16, 23, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 20, 18, Right, 1.0
+E, 21, 17, Below, 1.0
+E, 21, 20, Below, 1.0
+E, 21, 23, Right, 1.0
+E, 22, 17, Below, 1.0
+E, 22, 20, Below, 1.0
+E, 22, 23, Right, 1.0
+E, 23, 24, Below, 1.0
+E, 23, 25, Above, 1.0
+E, 23, 26, Right, 1.0
+E, 23, 27, Right, 1.0
+E, 23, 28, Right, 1.0
+E, 26, 29, Right, 1.0
+E, 26, 32, Right, 1.0
+E, 27, 29, Right, 1.0
+E, 27, 32, Right, 1.0
+E, 28, 29, Right, 1.0
+E, 28, 32, Right, 1.0
+E, 29, 30, Right, 1.0
+E, 29, 31, Right, 1.0
+E, 30, 33, Right, 1.0
+E, 31, 33, Right, 1.0
+E, 32, 30, Right, 1.0
+E, 32, 31, Right, 1.0
+E, 33, 34, Right, 1.0
+E, 34, 35, Right, 1.0
+E, 34, 36, Right, 1.0

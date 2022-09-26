@@ -1,0 +1,111 @@
+# IUD, 2011_KAIST_Data1_0_sub_28
+# Objects(24):
+# Object: n_4 . 
+N, 23, n, 1.0
+# Object: -_3 . 
+N, 18, -, 1.0
+# Object: 2_1 . 
+N, 5, 2, 1.0
+# Object: n_2 . 
+N, 10, n, 1.0
+# Object: z_1 . 
+N, 1, z, 1.0
+N, 2, z, 1.0
+E, 1, 2, z, 1.0
+E, 2, 1, z, 1.0
+# Object: +_1 . 
+N, 6, +, 1.0
+N, 7, +, 1.0
+E, 6, 7, +, 1.0
+E, 7, 6, +, 1.0
+# Object: -_2 . 
+N, 11, -, 1.0
+# Object: -_5 . 
+N, 24, -, 1.0
+# Object: )_1 . 
+N, 13, ), 1.0
+# Object: n_3 . 
+N, 17, n, 1.0
+# Object: )_2 . 
+N, 26, ), 1.0
+# Object: (_2 . 
+N, 14, (, 1.0
+# Object: -_1 . 
+N, 4, -, 1.0
+# Object: z_2 . 
+N, 15, z, 1.0
+N, 16, z, 1.0
+E, 15, 16, z, 1.0
+E, 16, 15, z, 1.0
+# Object: 2_2 . 
+N, 12, 2, 1.0
+# Object: (_1 . 
+N, 0, (, 1.0
+# Object: n_1 . 
+N, 3, n, 1.0
+# Object: 2_4 . 
+N, 25, 2, 1.0
+# Object: y_2 . 
+N, 21, y, 1.0
+N, 22, y, 1.0
+E, 21, 22, y, 1.0
+E, 22, 21, y, 1.0
+# Object: =_1 . 
+N, 27, =, 1.0
+N, 28, =, 1.0
+E, 27, 28, =, 1.0
+E, 28, 27, =, 1.0
+# Object: y_1 . 
+N, 8, y, 1.0
+N, 9, y, 1.0
+E, 8, 9, y, 1.0
+E, 9, 8, y, 1.0
+# Object: x_1 . 
+N, 29, x, 1.0
+# Object: 2_3 . 
+N, 19, 2, 1.0
+# Object: -_4 . 
+N, 20, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 4, Sup, 1.0
+E, 1, 6, Right, 1.0
+E, 1, 7, Right, 1.0
+E, 2, 4, Sup, 1.0
+E, 2, 6, Right, 1.0
+E, 2, 7, Right, 1.0
+E, 4, 3, Above, 1.0
+E, 4, 5, Below, 1.0
+E, 6, 8, Right, 1.0
+E, 6, 9, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 11, Sup, 1.0
+E, 8, 13, Right, 1.0
+E, 9, 11, Sup, 1.0
+E, 9, 13, Right, 1.0
+E, 11, 10, Above, 1.0
+E, 11, 12, Below, 1.0
+E, 13, 14, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 15, 18, Sup, 1.0
+E, 15, 20, Right, 1.0
+E, 16, 18, Sup, 1.0
+E, 16, 20, Right, 1.0
+E, 18, 17, Above, 1.0
+E, 18, 19, Below, 1.0
+E, 20, 21, Right, 1.0
+E, 20, 22, Right, 1.0
+E, 21, 24, Sup, 1.0
+E, 21, 26, Right, 1.0
+E, 22, 24, Sup, 1.0
+E, 22, 26, Right, 1.0
+E, 24, 23, Above, 1.0
+E, 24, 25, Below, 1.0
+E, 26, 27, Right, 1.0
+E, 26, 28, Right, 1.0
+E, 27, 29, Right, 1.0
+E, 28, 29, Right, 1.0

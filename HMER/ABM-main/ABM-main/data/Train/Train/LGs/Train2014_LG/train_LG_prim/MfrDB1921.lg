@@ -1,0 +1,108 @@
+# IUD, MfrDB1921
+# Objects(25):
+# Object: n_2 . 
+N, 4, n, 1.0
+# Object: a_1 . 
+N, 12, a, 1.0
+# Object: \sum_2 . 
+N, 21, \sum, 1.0
+# Object: n_3 . 
+N, 20, n, 1.0
+# Object: 2_1 . 
+N, 15, 2, 1.0
+# Object: \frac_2 . 
+N, 19, -, 1.0
+# Object: \sqrt_1 . 
+N, 29, \sqrt, 1.0
+# Object: k_3 . 
+N, 23, k, 1.0
+# Object: =_2 . 
+N, 24, =, 1.0
+N, 25, =, 1.0
+E, 24, 25, =, 1.0
+E, 25, 24, =, 1.0
+# Object: 1_4 . 
+N, 26, 1, 1.0
+# Object: k_2 . 
+N, 13, k, 1.0
+# Object: n_1 . 
+N, 2, n, 1.0
+# Object: \sum_1 . 
+N, 3, \sum, 1.0
+# Object: 1_3 . 
+N, 18, 1, 1.0
+# Object: (_1 . 
+N, 11, (, 1.0
+# Object: n_4 . 
+N, 22, n, 1.0
+# Object: )_1 . 
+N, 14, ), 1.0
+# Object: k_1 . 
+N, 5, k, 1.0
+N, 6, k, 1.0
+N, 7, k, 1.0
+E, 5, 6, k, 1.0
+E, 5, 7, k, 1.0
+E, 6, 5, k, 1.0
+E, 6, 7, k, 1.0
+E, 7, 5, k, 1.0
+E, 7, 6, k, 1.0
+# Object: =_1 . 
+N, 8, =, 1.0
+N, 9, =, 1.0
+E, 8, 9, =, 1.0
+E, 9, 8, =, 1.0
+# Object: \frac_1 . 
+N, 1, -, 1.0
+# Object: 1_2 . 
+N, 10, 1, 1.0
+# Object: k_4 . 
+N, 28, k, 1.0
+# Object: a_2 . 
+N, 27, a, 1.0
+# Object: \geq_1 . 
+N, 16, \geq, 1.0
+N, 17, \geq, 1.0
+E, 16, 17, \geq, 1.0
+E, 17, 16, \geq, 1.0
+# Object: 1_1 . 
+N, 0, 1, 1.0
+
+# Relations from SRT:
+E, 1, 0, Above, 1.0
+E, 1, 2, Below, 1.0
+E, 1, 3, Right, 1.0
+E, 3, 4, Above, 1.0
+E, 3, 5, Below, 1.0
+E, 3, 6, Below, 1.0
+E, 3, 7, Below, 1.0
+E, 3, 11, Right, 1.0
+E, 5, 8, Right, 1.0
+E, 5, 9, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 6, 9, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 12, 13, Sub, 1.0
+E, 12, 14, Right, 1.0
+E, 14, 15, Sup, 1.0
+E, 16, 19, Right, 1.0
+E, 17, 19, Right, 1.0
+E, 19, 18, Above, 1.0
+E, 19, 20, Below, 1.0
+E, 19, 21, Right, 1.0
+E, 21, 22, Above, 1.0
+E, 21, 23, Below, 1.0
+E, 21, 27, Right, 1.0
+E, 23, 24, Right, 1.0
+E, 23, 25, Right, 1.0
+E, 24, 26, Right, 1.0
+E, 25, 26, Right, 1.0
+E, 27, 28, Sub, 1.0
+E, 29, 1, Inside, 1.0
+E, 29, 3, Inside, 1.0
+E, 29, 16, Right, 1.0
+E, 29, 17, Right, 1.0

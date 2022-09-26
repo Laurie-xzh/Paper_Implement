@@ -1,0 +1,64 @@
+# IUD, 2011_IVC_depart_F037_E013
+# Objects(9):
+# Object: (_1 . 
+N, 13, (, 1.0
+# Object: 2_1 . 
+N, 8, 2, 1.0
+# Object: n_2 . 
+N, 9, n, 1.0
+# Object: a_1 . 
+N, 0, a, 1.0
+# Object: x_1 . 
+N, 11, x, 1.0
+N, 10, x, 1.0
+E, 11, 10, x, 1.0
+E, 10, 11, x, 1.0
+# Object: )_1 . 
+N, 12, ), 1.0
+# Object: =_1 . 
+N, 3, =, 1.0
+N, 2, =, 1.0
+E, 3, 2, =, 1.0
+E, 2, 3, =, 1.0
+# Object: sin_1 . 
+N, 4, \sin, 1.0
+N, 5, \sin, 1.0
+N, 7, \sin, 1.0
+N, 6, \sin, 1.0
+E, 4, 5, \sin, 1.0
+E, 4, 7, \sin, 1.0
+E, 4, 6, \sin, 1.0
+E, 5, 4, \sin, 1.0
+E, 5, 7, \sin, 1.0
+E, 5, 6, \sin, 1.0
+E, 7, 4, \sin, 1.0
+E, 7, 5, \sin, 1.0
+E, 7, 6, \sin, 1.0
+E, 6, 4, \sin, 1.0
+E, 6, 5, \sin, 1.0
+E, 6, 7, \sin, 1.0
+# Object: n_1 . 
+N, 1, n, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sub, 1.0
+E, 0, 2, Right, 1.0
+E, 0, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 2, 6, Right, 1.0
+E, 2, 7, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 3, 6, Right, 1.0
+E, 3, 7, Right, 1.0
+E, 4, 13, Right, 1.0
+E, 5, 13, Right, 1.0
+E, 6, 13, Right, 1.0
+E, 7, 13, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 13, 8, Right, 1.0

@@ -1,0 +1,183 @@
+# IUD, 93_daniel
+# Objects(35):
+# Object: theta_2 . 
+N, 11, \theta, 1.0
+N, 12, \theta, 1.0
+E, 11, 12, \theta, 1.0
+E, 12, 11, \theta, 1.0
+# Object: )_1 . 
+N, 14, ), 1.0
+# Object: sin_3 . 
+N, 36, \sin, 1.0
+N, 35, \sin, 1.0
+N, 34, \sin, 1.0
+E, 36, 35, \sin, 1.0
+E, 36, 34, \sin, 1.0
+E, 35, 36, \sin, 1.0
+E, 35, 34, \sin, 1.0
+E, 34, 36, \sin, 1.0
+E, 34, 35, \sin, 1.0
+# Object: theta_3 . 
+N, 22, \theta, 1.0
+N, 23, \theta, 1.0
+E, 22, 23, \theta, 1.0
+E, 23, 22, \theta, 1.0
+# Object: theta_5 . 
+N, 38, \theta, 1.0
+N, 39, \theta, 1.0
+E, 38, 39, \theta, 1.0
+E, 39, 38, \theta, 1.0
+# Object: theta_6 . 
+N, 42, \theta, 1.0
+N, 43, \theta, 1.0
+E, 42, 43, \theta, 1.0
+E, 43, 42, \theta, 1.0
+# Object: r_2 . 
+N, 2, r, 1.0
+# Object: 0_3 . 
+N, 31, 0, 1.0
+# Object: r_5 . 
+N, 32, r, 1.0
+# Object: 0_2 . 
+N, 13, 0, 1.0
+# Object: theta_4 . 
+N, 25, \theta, 1.0
+N, 26, \theta, 1.0
+E, 25, 26, \theta, 1.0
+E, 26, 25, \theta, 1.0
+# Object: )_2 . 
+N, 46, ), 1.0
+# Object: )_3 . 
+N, 47, ), 1.0
+# Object: (_3 . 
+N, 21, (, 1.0
+# Object: 0_1 . 
+N, 3, 0, 1.0
+# Object: -_3 . 
+N, 24, -, 1.0
+# Object: (_2 . 
+N, 7, (, 1.0
+# Object: r_3 . 
+N, 16, r, 1.0
+# Object: 1_3 . 
+N, 33, 1, 1.0
+# Object: 1_1 . 
+N, 17, 1, 1.0
+# Object: theta_1 . 
+N, 8, \theta, 1.0
+N, 9, \theta, 1.0
+E, 8, 9, \theta, 1.0
+E, 9, 8, \theta, 1.0
+# Object: -_4 . 
+N, 41, -, 1.0
+# Object: =_1 . 
+N, 28, =, 1.0
+N, 29, =, 1.0
+E, 28, 29, =, 1.0
+E, 29, 28, =, 1.0
+# Object: sin_1 . 
+N, 6, \sin, 1.0
+N, 5, \sin, 1.0
+N, 4, \sin, 1.0
+E, 6, 5, \sin, 1.0
+E, 6, 4, \sin, 1.0
+E, 5, 6, \sin, 1.0
+E, 5, 4, \sin, 1.0
+E, 4, 6, \sin, 1.0
+E, 4, 5, \sin, 1.0
+# Object: 1_2 . 
+N, 27, 1, 1.0
+# Object: sin_2 . 
+N, 20, \sin, 1.0
+N, 19, \sin, 1.0
+N, 18, \sin, 1.0
+E, 20, 19, \sin, 1.0
+E, 20, 18, \sin, 1.0
+E, 19, 20, \sin, 1.0
+E, 19, 18, \sin, 1.0
+E, 18, 20, \sin, 1.0
+E, 18, 19, \sin, 1.0
+# Object: -_2 . 
+N, 15, -, 1.0
+# Object: -_1 . 
+N, 10, -, 1.0
+# Object: )_4 . 
+N, 45, ), 1.0
+# Object: r_1 . 
+N, 0, r, 1.0
+# Object: 1_4 . 
+N, 40, 1, 1.0
+# Object: (_4 . 
+N, 37, (, 1.0
+# Object: r_4 . 
+N, 30, r, 1.0
+# Object: 0_4 . 
+N, 44, 0, 1.0
+# Object: (_1 . 
+N, 1, (, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Sub, 1.0
+E, 2, 4, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 2, 6, Right, 1.0
+E, 4, 7, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 13, Sub, 1.0
+E, 11, 14, Right, 1.0
+E, 12, 13, Sub, 1.0
+E, 12, 14, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 16, 17, Sub, 1.0
+E, 16, 18, Right, 1.0
+E, 16, 19, Right, 1.0
+E, 16, 20, Right, 1.0
+E, 18, 21, Right, 1.0
+E, 19, 21, Right, 1.0
+E, 20, 21, Right, 1.0
+E, 21, 22, Right, 1.0
+E, 21, 23, Right, 1.0
+E, 22, 24, Right, 1.0
+E, 23, 24, Right, 1.0
+E, 24, 25, Right, 1.0
+E, 24, 26, Right, 1.0
+E, 25, 27, Sub, 1.0
+E, 25, 46, Right, 1.0
+E, 26, 27, Sub, 1.0
+E, 26, 46, Right, 1.0
+E, 28, 30, Right, 1.0
+E, 29, 30, Right, 1.0
+E, 30, 31, Sub, 1.0
+E, 30, 32, Right, 1.0
+E, 32, 33, Sub, 1.0
+E, 32, 34, Right, 1.0
+E, 32, 35, Right, 1.0
+E, 32, 36, Right, 1.0
+E, 34, 37, Right, 1.0
+E, 35, 37, Right, 1.0
+E, 36, 37, Right, 1.0
+E, 37, 38, Right, 1.0
+E, 37, 39, Right, 1.0
+E, 38, 40, Sub, 1.0
+E, 38, 41, Right, 1.0
+E, 39, 40, Sub, 1.0
+E, 39, 41, Right, 1.0
+E, 41, 42, Right, 1.0
+E, 41, 43, Right, 1.0
+E, 42, 44, Sub, 1.0
+E, 42, 45, Right, 1.0
+E, 43, 44, Sub, 1.0
+E, 43, 45, Right, 1.0
+E, 46, 47, Right, 1.0
+E, 47, 28, Right, 1.0
+E, 47, 29, Right, 1.0

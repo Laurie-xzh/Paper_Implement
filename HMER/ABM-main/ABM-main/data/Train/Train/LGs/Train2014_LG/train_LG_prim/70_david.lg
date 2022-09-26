@@ -1,0 +1,66 @@
+# IUD, 70_david
+# Objects(11):
+# Object: theta_1 . 
+N, 14, \theta, 1.0
+N, 15, \theta, 1.0
+E, 14, 15, \theta, 1.0
+E, 15, 14, \theta, 1.0
+# Object: 2_1 . 
+N, 9, 2, 1.0
+# Object: x_2 . 
+N, 8, x, 1.0
+# Object: _1 . 
+N, 6, -, 1.0
+# Object: _2 . 
+N, 7, \sqrt, 1.0
+# Object: x_1 . 
+N, 5, x, 1.0
+# Object: y_1 . 
+N, 12, y, 1.0
+# Object: cos_1 . 
+N, 0, \cos, 1.0
+N, 1, \cos, 1.0
+N, 2, \cos, 1.0
+E, 0, 1, \cos, 1.0
+E, 0, 2, \cos, 1.0
+E, 1, 0, \cos, 1.0
+E, 1, 2, \cos, 1.0
+E, 2, 0, \cos, 1.0
+E, 2, 1, \cos, 1.0
+# Object: +_1 . 
+N, 10, +, 1.0
+N, 11, +, 1.0
+E, 10, 11, +, 1.0
+E, 11, 10, +, 1.0
+# Object: =_1 . 
+N, 3, =, 1.0
+N, 4, =, 1.0
+E, 3, 4, =, 1.0
+E, 4, 3, =, 1.0
+# Object: 2_2 . 
+N, 13, 2, 1.0
+
+# Relations from SRT:
+E, 0, 14, Right, 1.0
+E, 0, 15, Right, 1.0
+E, 1, 14, Right, 1.0
+E, 1, 15, Right, 1.0
+E, 2, 14, Right, 1.0
+E, 2, 15, Right, 1.0
+E, 3, 6, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 6, 5, Above, 1.0
+E, 6, 7, Below, 1.0
+E, 7, 8, Inside, 1.0
+E, 7, 10, Inside, 1.0
+E, 7, 11, Inside, 1.0
+E, 8, 9, Sup, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 12, 13, Sup, 1.0
+E, 14, 3, Right, 1.0
+E, 14, 4, Right, 1.0
+E, 15, 3, Right, 1.0
+E, 15, 4, Right, 1.0

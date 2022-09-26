@@ -8,9 +8,12 @@ from PIL import Image
 import cv2 
 import os
     
-
-paths= [your img dir ]
-labels = [your label txt]
+img_path = './data'
+label_path = './data'
+#paths= [your img dir ]
+#labels = [your label txt]
+paths = img_path
+labels = label_path
 
 
 outFile = 'offline-train.pkl' 

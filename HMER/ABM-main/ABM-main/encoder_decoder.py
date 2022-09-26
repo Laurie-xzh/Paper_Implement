@@ -17,6 +17,12 @@ class FcLayer(nn.Module):
 
 
 # Embedding
+'''
+torch.nn.Embedding(num_embeddings, embedding_dim, padding_idx=None,
+max_norm=None,  norm_type=2.0,   scale_grad_by_freq=False, 
+sparse=False,  _weight=None)
+A simple lookup table that stores embeddings of a fixed dictionary and size.
+'''
 class Embedding(nn.Module):
     def __init__(self, params):
         super(Embedding, self).__init__()

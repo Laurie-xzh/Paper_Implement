@@ -1,0 +1,17 @@
+# IUD, MfrDB0707
+# Objects(3):
+# Object: +_1 . 
+N, 2, +, 1.0
+N, 3, +, 1.0
+E, 2, 3, +, 1.0
+E, 3, 2, +, 1.0
+# Object: 1_1 . 
+N, 1, 1, 1.0
+# Object: 1_2 . 
+N, 4, 1, 1.0
+
+# Relations from SRT:
+E, 1, 2, Right, 1.0
+E, 1, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 4, Right, 1.0

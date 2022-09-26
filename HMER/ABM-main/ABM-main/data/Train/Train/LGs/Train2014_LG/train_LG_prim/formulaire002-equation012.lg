@@ -1,0 +1,76 @@
+# IUD, 2011_IVC_depart_F002_E012
+# Objects(11):
+# Object: \theta_1 . 
+N, 3, \theta, 1.0
+N, 4, \theta, 1.0
+E, 3, 4, \theta, 1.0
+E, 4, 3, \theta, 1.0
+# Object: )_2 . 
+N, 17, ), 1.0
+# Object: p_1 . 
+N, 14, p, 1.0
+# Object: a_1 . 
+N, 8, a, 1.0
+# Object: \sin_1 . 
+N, 9, \sin, 1.0
+N, 10, \sin, 1.0
+N, 11, \sin, 1.0
+N, 12, \sin, 1.0
+E, 9, 10, \sin, 1.0
+E, 9, 11, \sin, 1.0
+E, 9, 12, \sin, 1.0
+E, 10, 9, \sin, 1.0
+E, 10, 11, \sin, 1.0
+E, 10, 12, \sin, 1.0
+E, 11, 9, \sin, 1.0
+E, 11, 10, \sin, 1.0
+E, 11, 12, \sin, 1.0
+E, 12, 9, \sin, 1.0
+E, 12, 10, \sin, 1.0
+E, 12, 11, \sin, 1.0
+# Object: =_1 . 
+N, 7, =, 1.0
+N, 6, =, 1.0
+E, 7, 6, =, 1.0
+E, 6, 7, =, 1.0
+# Object: (_1 . 
+N, 2, (, 1.0
+# Object: x_1 . 
+N, 0, x, 1.0
+N, 1, x, 1.0
+E, 0, 1, x, 1.0
+E, 1, 0, x, 1.0
+# Object: )_1 . 
+N, 5, ), 1.0
+# Object: (_2 . 
+N, 13, (, 1.0
+# Object: \theta_2 . 
+N, 16, \theta, 1.0
+N, 15, \theta, 1.0
+E, 16, 15, \theta, 1.0
+E, 15, 16, \theta, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 8, 12, Right, 1.0
+E, 9, 13, Right, 1.0
+E, 10, 13, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 15, 17, Right, 1.0
+E, 16, 17, Right, 1.0

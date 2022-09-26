@@ -1,0 +1,31 @@
+# IUD, 2011_IVC_depart_F019_E044
+# Objects(6):
+# Object: \theta_1 . 
+N, 3, \theta, 1.0
+N, 2, \theta, 1.0
+E, 3, 2, \theta, 1.0
+E, 2, 3, \theta, 1.0
+# Object: =_1 . 
+N, 5, =, 1.0
+N, 6, =, 1.0
+E, 5, 6, =, 1.0
+E, 6, 5, =, 1.0
+# Object: (_1 . 
+N, 1, (, 1.0
+# Object: 0_1 . 
+N, 7, 0, 1.0
+# Object: h_1 . 
+N, 0, h, 1.0
+# Object: )_1 . 
+N, 4, ), 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 1, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 7, Right, 1.0

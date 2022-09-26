@@ -1,0 +1,115 @@
+# IUD, 2011_IVC_depart_F022_E011
+# Objects(34):
+# Object: -_1 . 
+N, 7, -, 1.0
+# Object: 3_2 . 
+N, 26, 3, 1.0
+# Object: 5_1 . 
+N, 4, 5, 1.0
+# Object: (_2 . 
+N, 19, (, 1.0
+# Object: -_2 . 
+N, 22, -, 1.0
+# Object: 0_2 . 
+N, 16, 0, 1.0
+# Object: a_2 . 
+N, 5, a, 1.0
+# Object: a_7 . 
+N, 25, a, 1.0
+# Object: 2_3 . 
+N, 32, 2, 1.0
+# Object: 0_1 . 
+N, 1, 0, 1.0
+# Object: )_1 . 
+N, 12, ), 1.0
+# Object: 2_2 . 
+N, 21, 2, 1.0
+# Object: 1_1 . 
+N, 0, 1, 1.0
+# Object: 0_3 . 
+N, 35, 0, 1.0
+# Object: a_3 . 
+N, 9, a, 1.0
+# Object: +_1 . 
+N, 13, +, 1.0
+N, 14, +, 1.0
+E, 13, 14, +, 1.0
+E, 14, 13, +, 1.0
+# Object: )_2 . 
+N, 31, ), 1.0
+# Object: 1_2 . 
+N, 15, 1, 1.0
+# Object: 2_1 . 
+N, 10, 2, 1.0
+# Object: a_5 . 
+N, 20, a, 1.0
+# Object: 4_3 . 
+N, 24, 4, 1.0
+# Object: _1 . 
+N, 27, -, 1.0
+# Object: =_1 . 
+N, 33, =, 1.0
+N, 34, =, 1.0
+E, 33, 34, =, 1.0
+E, 34, 33, =, 1.0
+# Object: a_1 . 
+N, 3, a, 1.0
+# Object: 4_2 . 
+N, 11, 4, 1.0
+# Object: 5_4 . 
+N, 30, 5, 1.0
+# Object: (_1 . 
+N, 2, (, 1.0
+# Object: 4_1 . 
+N, 8, 4, 1.0
+# Object: 5_3 . 
+N, 28, 5, 1.0
+# Object: 5_2 . 
+N, 18, 5, 1.0
+# Object: a_8 . 
+N, 29, a, 1.0
+# Object: a_4 . 
+N, 17, a, 1.0
+# Object: a_6 . 
+N, 23, a, 1.0
+# Object: 3_1 . 
+N, 6, 3, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 3, Right, 1.0
+E, 2, 0, Right, 1.0
+E, 3, 4, Sub, 1.0
+E, 3, 5, Right, 1.0
+E, 5, 6, Sub, 1.0
+E, 5, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 10, Sup, 1.0
+E, 9, 11, Sub, 1.0
+E, 9, 12, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 16, 17, Right, 1.0
+E, 17, 18, Sub, 1.0
+E, 17, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 20, 21, Sub, 1.0
+E, 20, 22, Right, 1.0
+E, 22, 27, Right, 1.0
+E, 23, 24, Sub, 1.0
+E, 23, 25, Right, 1.0
+E, 25, 26, Sub, 1.0
+E, 27, 23, Above, 1.0
+E, 27, 28, Below, 1.0
+E, 27, 31, Right, 1.0
+E, 28, 29, Right, 1.0
+E, 29, 30, Sub, 1.0
+E, 31, 32, Sup, 1.0
+E, 31, 33, Right, 1.0
+E, 31, 34, Right, 1.0
+E, 33, 35, Right, 1.0
+E, 34, 35, Right, 1.0

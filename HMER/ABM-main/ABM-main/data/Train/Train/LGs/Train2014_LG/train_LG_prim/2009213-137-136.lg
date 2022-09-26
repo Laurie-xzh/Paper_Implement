@@ -1,0 +1,32 @@
+# IUD, "2009213-137-136.ink"
+# Objects(6):
+# Object: 6:7: . 
+N, 6, I, 1.0
+N, 7, I, 1.0
+E, 6, 7, I, 1.0
+E, 7, 6, I, 1.0
+# Object: 1: . 
+N, 1, m, 1.0
+# Object: 4:5: . 
+N, 4, +, 1.0
+N, 5, +, 1.0
+E, 4, 5, +, 1.0
+E, 5, 4, +, 1.0
+# Object: 0: . 
+N, 0, \sqrt, 1.0
+# Object: 2: . 
+N, 2, -, 1.0
+# Object: 3: . 
+N, 3, h, 1.0
+
+# Relations from SRT:
+E, 0, 1, Inside, 1.0
+E, 0, 2, Inside, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 4, 7, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 5, 7, Right, 1.0

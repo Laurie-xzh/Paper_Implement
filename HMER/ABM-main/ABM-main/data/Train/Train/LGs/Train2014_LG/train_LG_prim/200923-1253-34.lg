@@ -1,0 +1,60 @@
+# IUD, "200923-1253-34.ink"
+# Objects(12):
+# Object: 14:15: . 
+N, 14, j, 1.0
+N, 15, j, 1.0
+E, 14, 15, j, 1.0
+E, 15, 14, j, 1.0
+# Object: 6: . 
+N, 6, ., 1.0
+# Object: 3:4: . 
+N, 3, +, 1.0
+N, 4, +, 1.0
+E, 3, 4, +, 1.0
+E, 4, 3, +, 1.0
+# Object: 2: . 
+N, 2, ., 1.0
+# Object: 13: . 
+N, 13, d, 1.0
+# Object: 5: . 
+N, 5, 0, 1.0
+# Object: 9: . 
+N, 9, \int, 1.0
+# Object: 10:11:12: . 
+N, 10, F, 1.0
+N, 11, F, 1.0
+N, 12, F, 1.0
+E, 10, 11, F, 1.0
+E, 10, 12, F, 1.0
+E, 11, 10, F, 1.0
+E, 11, 12, F, 1.0
+E, 12, 10, F, 1.0
+E, 12, 11, F, 1.0
+# Object: 1: . 
+N, 1, ., 1.0
+# Object: 8: . 
+N, 8, -, 1.0
+# Object: 7: . 
+N, 7, 3, 1.0
+# Object: 0: . 
+N, 0, ., 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 8, 0, Above, 1.0
+E, 8, 9, Below, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 9, 12, Right, 1.0
+E, 10, 13, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 13, 15, Right, 1.0

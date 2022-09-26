@@ -1,0 +1,29 @@
+# IUD, "2009213-139-65.ink"
+# Objects(4):
+# Object: 3:4: . 
+N, 3, \sum, 1.0
+N, 4, \sum, 1.0
+E, 3, 4, \sum, 1.0
+E, 4, 3, \sum, 1.0
+# Object: 2: . 
+N, 2, -, 1.0
+# Object: 0:1: . 
+N, 0, \phi, 1.0
+N, 1, \phi, 1.0
+E, 0, 1, \phi, 1.0
+E, 1, 0, \phi, 1.0
+# Object: 5:6: . 
+N, 5, \lambda, 1.0
+N, 6, \lambda, 1.0
+E, 5, 6, \lambda, 1.0
+E, 6, 5, \lambda, 1.0
+
+# Relations from SRT:
+E, 2, 0, Above, 1.0
+E, 2, 1, Above, 1.0
+E, 2, 3, Below, 1.0
+E, 2, 4, Below, 1.0
+E, 3, 5, Right, 1.0
+E, 3, 6, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 4, 6, Right, 1.0

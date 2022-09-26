@@ -1,0 +1,125 @@
+# IUD, 2011_IVC_depart_F023_E007
+# Objects(36):
+# Object: h_9 . 
+N, 29, h, 1.0
+# Object: -_2 . 
+N, 31, -, 1.0
+# Object: h_6 . 
+N, 19, h, 1.0
+# Object: t_1 . 
+N, 1, t, 1.0
+N, 0, t, 1.0
+E, 1, 0, t, 1.0
+E, 0, 1, t, 1.0
+# Object: 0_1 . 
+N, 15, 0, 1.0
+# Object: 1_3 . 
+N, 35, 1, 1.0
+# Object: h_7 . 
+N, 23, h, 1.0
+# Object: z_2 . 
+N, 36, z, 1.0
+# Object: -_3 . 
+N, 37, -, 1.0
+# Object: 0_2 . 
+N, 30, 0, 1.0
+# Object: )_1 . 
+N, 4, ), 1.0
+# Object: 2_2 . 
+N, 24, 2, 1.0
+# Object: h_3 . 
+N, 12, h, 1.0
+# Object: z_1 . 
+N, 3, z, 1.0
+# Object: _1 . 
+N, 11, -, 1.0
+# Object: 2_3 . 
+N, 33, 2, 1.0
+# Object: -_1 . 
+N, 16, -, 1.0
+# Object: 1_1 . 
+N, 10, 1, 1.0
+# Object: 3_1 . 
+N, 8, 3, 1.0
+# Object: h_4 . 
+N, 14, h, 1.0
+# Object: 1_2 . 
+N, 20, 1, 1.0
+# Object: +_1 . 
+N, 21, +, 1.0
+N, 22, +, 1.0
+E, 21, 22, +, 1.0
+E, 22, 21, +, 1.0
+# Object: (_1 . 
+N, 2, (, 1.0
+# Object: =_1 . 
+N, 5, =, 1.0
+N, 6, =, 1.0
+E, 5, 6, =, 1.0
+E, 6, 5, =, 1.0
+# Object: 3_2 . 
+N, 13, 3, 1.0
+# Object: h_10 . 
+N, 32, h, 1.0
+# Object: 1_4 . 
+N, 38, 1, 1.0
+# Object: h_11 . 
+N, 34, h, 1.0
+# Object: 3_3 . 
+N, 25, 3, 1.0
+# Object: _2 . 
+N, 26, -, 1.0
+# Object: 3_4 . 
+N, 28, 3, 1.0
+# Object: h_1 . 
+N, 7, h, 1.0
+# Object: h_8 . 
+N, 27, h, 1.0
+# Object: h_5 . 
+N, 17, h, 1.0
+# Object: h_2 . 
+N, 9, h, 1.0
+# Object: 2_1 . 
+N, 18, 2, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 5, 11, Right, 1.0
+E, 6, 11, Right, 1.0
+E, 7, 8, Sub, 1.0
+E, 7, 9, Right, 1.0
+E, 9, 10, Sub, 1.0
+E, 11, 7, Above, 1.0
+E, 11, 12, Below, 1.0
+E, 11, 21, Right, 1.0
+E, 11, 22, Right, 1.0
+E, 12, 13, Sub, 1.0
+E, 12, 14, Right, 1.0
+E, 14, 15, Sub, 1.0
+E, 14, 16, Right, 1.0
+E, 16, 17, Right, 1.0
+E, 17, 18, Sub, 1.0
+E, 17, 19, Right, 1.0
+E, 19, 20, Sub, 1.0
+E, 21, 26, Right, 1.0
+E, 22, 26, Right, 1.0
+E, 23, 24, Sup, 1.0
+E, 23, 25, Sub, 1.0
+E, 26, 23, Above, 1.0
+E, 26, 27, Below, 1.0
+E, 26, 36, Right, 1.0
+E, 27, 28, Sub, 1.0
+E, 27, 29, Right, 1.0
+E, 29, 30, Sub, 1.0
+E, 29, 31, Right, 1.0
+E, 31, 32, Right, 1.0
+E, 32, 33, Sub, 1.0
+E, 32, 34, Right, 1.0
+E, 34, 35, Sub, 1.0
+E, 36, 37, Sup, 1.0
+E, 37, 38, Right, 1.0

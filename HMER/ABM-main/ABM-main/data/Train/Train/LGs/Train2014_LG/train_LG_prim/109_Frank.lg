@@ -1,0 +1,59 @@
+# IUD, 109_Frank
+# Objects(13):
+# Object: x_2 . 
+N, 8, x, 1.0
+N, 9, x, 1.0
+E, 8, 9, x, 1.0
+E, 9, 8, x, 1.0
+# Object: a_1 . 
+N, 3, a, 1.0
+# Object: b_1 . 
+N, 5, b, 1.0
+# Object: _3 . 
+N, 12, -, 1.0
+# Object: _2 . 
+N, 4, -, 1.0
+# Object: _5 . 
+N, 15, \sqrt, 1.0
+# Object: a_2 . 
+N, 11, a, 1.0
+# Object: _4 . 
+N, 10, \sqrt, 1.0
+# Object: x_1 . 
+N, 0, x, 1.0
+N, 1, x, 1.0
+E, 0, 1, x, 1.0
+E, 1, 0, x, 1.0
+# Object: b_2 . 
+N, 16, b, 1.0
+# Object: _1 . 
+N, 2, \sqrt, 1.0
+# Object: x_3 . 
+N, 13, x, 1.0
+N, 14, x, 1.0
+E, 13, 14, x, 1.0
+E, 14, 13, x, 1.0
+# Object: =_1 . 
+N, 6, =, 1.0
+N, 7, =, 1.0
+E, 6, 7, =, 1.0
+E, 7, 6, =, 1.0
+
+# Relations from SRT:
+E, 2, 0, Above, 1.0
+E, 2, 1, Above, 1.0
+E, 2, 4, Inside, 1.0
+E, 2, 6, Right, 1.0
+E, 2, 7, Right, 1.0
+E, 4, 3, Above, 1.0
+E, 4, 5, Below, 1.0
+E, 6, 12, Right, 1.0
+E, 7, 12, Right, 1.0
+E, 10, 8, Above, 1.0
+E, 10, 9, Above, 1.0
+E, 10, 11, Inside, 1.0
+E, 12, 10, Above, 1.0
+E, 12, 15, Below, 1.0
+E, 15, 13, Above, 1.0
+E, 15, 14, Above, 1.0
+E, 15, 16, Inside, 1.0

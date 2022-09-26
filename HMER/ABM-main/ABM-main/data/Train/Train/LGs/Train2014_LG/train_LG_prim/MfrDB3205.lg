@@ -1,0 +1,49 @@
+# IUD, MfrDB3205
+# Objects(11):
+# Object: =_1 . 
+N, 5, =, 1.0
+N, 6, =, 1.0
+E, 5, 6, =, 1.0
+E, 6, 5, =, 1.0
+# Object: 6_3 . 
+N, 3, 6, 1.0
+# Object: 6_2 . 
+N, 1, 6, 1.0
+# Object: 6_1 . 
+N, 0, 6, 1.0
+# Object: 4_1 . 
+N, 12, 4, 1.0
+N, 13, 4, 1.0
+E, 12, 13, 4, 1.0
+E, 13, 12, 4, 1.0
+# Object: 6_4 . 
+N, 7, 6, 1.0
+# Object: (_1 . 
+N, 11, (, 1.0
+# Object: )_1 . 
+N, 10, ), 1.0
+# Object: 2_1 . 
+N, 4, 2, 1.0
+# Object: x_1 . 
+N, 8, x, 1.0
+N, 9, x, 1.0
+E, 8, 9, x, 1.0
+E, 9, 8, x, 1.0
+# Object: \cdot_1 . 
+N, 2, ., 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Sup, 1.0
+E, 3, 5, Right, 1.0
+E, 3, 6, Right, 1.0
+E, 5, 11, Right, 1.0
+E, 6, 11, Right, 1.0
+E, 7, 8, Sup, 1.0
+E, 7, 9, Sup, 1.0
+E, 7, 10, Right, 1.0
+E, 10, 12, Sup, 1.0
+E, 10, 13, Sup, 1.0
+E, 11, 7, Right, 1.0

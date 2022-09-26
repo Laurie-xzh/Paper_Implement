@@ -1,0 +1,80 @@
+# IUD, MfrDB1899
+# Objects(19):
+# Object: +_2 . 
+N, 11, +, 1.0
+N, 12, +, 1.0
+E, 11, 12, +, 1.0
+E, 12, 11, +, 1.0
+# Object: (_1 . 
+N, 0, (, 1.0
+# Object: (_2 . 
+N, 5, (, 1.0
+# Object: y_4 . 
+N, 15, y, 1.0
+# Object: 0_1 . 
+N, 22, 0, 1.0
+# Object: )_1 . 
+N, 4, ), 1.0
+# Object: y_1 . 
+N, 1, y, 1.0
+# Object: )_3 . 
+N, 19, ), 1.0
+# Object: )_2 . 
+N, 10, ), 1.0
+# Object: =_1 . 
+N, 20, =, 1.0
+N, 21, =, 1.0
+E, 20, 21, =, 1.0
+E, 21, 20, =, 1.0
+# Object: 3_2 . 
+N, 9, 3, 1.0
+# Object: +_3 . 
+N, 16, +, 1.0
+N, 17, +, 1.0
+E, 16, 17, +, 1.0
+E, 17, 16, +, 1.0
+# Object: 3_1 . 
+N, 3, 3, 1.0
+# Object: 3_3 . 
+N, 18, 3, 1.0
+# Object: +_1 . 
+N, 7, +, 1.0
+N, 8, +, 1.0
+E, 7, 8, +, 1.0
+E, 8, 7, +, 1.0
+# Object: y_3 . 
+N, 13, y, 1.0
+# Object: -_1 . 
+N, 2, -, 1.0
+# Object: y_2 . 
+N, 6, y, 1.0
+# Object: (_3 . 
+N, 14, (, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 15, 17, Right, 1.0
+E, 16, 18, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 19, 21, Right, 1.0
+E, 20, 22, Right, 1.0
+E, 21, 22, Right, 1.0

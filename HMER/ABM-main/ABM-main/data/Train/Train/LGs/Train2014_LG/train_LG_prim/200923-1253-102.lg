@@ -1,0 +1,60 @@
+# IUD, "200923-1253-102.ink"
+# Objects(7):
+# Object: 10:11:12: . 
+N, 10, E, 1.0
+N, 11, E, 1.0
+N, 12, E, 1.0
+E, 10, 11, E, 1.0
+E, 10, 12, E, 1.0
+E, 11, 10, E, 1.0
+E, 11, 12, E, 1.0
+E, 12, 10, E, 1.0
+E, 12, 11, E, 1.0
+# Object: 7:8:9: . 
+N, 7, \geq, 1.0
+N, 8, \geq, 1.0
+N, 9, \geq, 1.0
+E, 7, 8, \geq, 1.0
+E, 7, 9, \geq, 1.0
+E, 8, 7, \geq, 1.0
+E, 8, 9, \geq, 1.0
+E, 9, 7, \geq, 1.0
+E, 9, 8, \geq, 1.0
+# Object: 2: . 
+N, 2, [, 1.0
+# Object: 0:1: . 
+N, 0, \sum, 1.0
+N, 1, \sum, 1.0
+E, 0, 1, \sum, 1.0
+E, 1, 0, \sum, 1.0
+# Object: 3:4: . 
+N, 3, C, 1.0
+N, 4, C, 1.0
+E, 3, 4, C, 1.0
+E, 4, 3, C, 1.0
+# Object: 5: . 
+N, 5, ], 1.0
+# Object: 6: . 
+N, 6, 9, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 0, 6, Below, 1.0
+E, 1, 2, Right, 1.0
+E, 1, 6, Below, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 6, 9, Right, 1.0
+E, 7, 10, Right, 1.0
+E, 7, 11, Right, 1.0
+E, 7, 12, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 8, 12, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 9, 12, Right, 1.0

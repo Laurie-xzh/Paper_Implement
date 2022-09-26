@@ -1,0 +1,21 @@
+# IUD, 2011_IVC_depart_F035_E022
+# Objects(6):
+# Object: COMMA_1 . 
+N, 3, COMMA, 1.0
+# Object: )_1 . 
+N, 5, ), 1.0
+# Object: \theta_1 . 
+N, 2, \theta, 1.0
+# Object: p_1 . 
+N, 4, p, 1.0
+# Object: u_1 . 
+N, 0, u, 1.0
+# Object: (_1 . 
+N, 1, (, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Right, 1.0

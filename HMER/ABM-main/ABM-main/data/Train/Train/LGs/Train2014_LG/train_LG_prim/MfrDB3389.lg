@@ -1,0 +1,75 @@
+# IUD, MfrDB3389
+# Objects(17):
+# Object: n_3 . 
+N, 13, n, 1.0
+# Object: /_2 . 
+N, 19, /, 1.0
+# Object: /_1 . 
+N, 11, /, 1.0
+# Object: y_1 . 
+N, 12, y, 1.0
+# Object: 1_1 . 
+N, 18, 1, 1.0
+# Object: 2_1 . 
+N, 21, 2, 1.0
+# Object: =_1 . 
+N, 15, =, 1.0
+N, 16, =, 1.0
+E, 15, 16, =, 1.0
+E, 16, 15, =, 1.0
+# Object: n_1 . 
+N, 3, n, 1.0
+# Object: \vec_1 . 
+N, 4, \rightarrow, 1.0
+N, 5, \rightarrow, 1.0
+E, 4, 5, \rightarrow, 1.0
+E, 5, 4, \rightarrow, 1.0
+# Object: L_2 . 
+N, 20, L, 1.0
+# Object: L_1 . 
+N, 17, L, 1.0
+# Object: n_2 . 
+N, 10, n, 1.0
+# Object: \infty_1 . 
+N, 6, \infty, 1.0
+# Object: x_1 . 
+N, 8, x, 1.0
+N, 9, x, 1.0
+E, 8, 9, x, 1.0
+E, 9, 8, x, 1.0
+# Object: (_1 . 
+N, 7, (, 1.0
+# Object: )_1 . 
+N, 14, ), 1.0
+# Object: \lim_1 . 
+N, 1, \lim, 1.0
+N, 2, \lim, 1.0
+E, 1, 2, \lim, 1.0
+E, 2, 1, \lim, 1.0
+
+# Relations from SRT:
+E, 1, 3, Below, 1.0
+E, 1, 7, Right, 1.0
+E, 2, 3, Below, 1.0
+E, 2, 7, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 6, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 10, Sub, 1.0
+E, 8, 11, Right, 1.0
+E, 9, 10, Sub, 1.0
+E, 9, 11, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 12, 13, Sub, 1.0
+E, 12, 14, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 15, 17, Right, 1.0
+E, 16, 17, Right, 1.0
+E, 17, 18, Sub, 1.0
+E, 17, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 20, 21, Sub, 1.0

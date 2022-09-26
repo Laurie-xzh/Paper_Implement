@@ -1,0 +1,23 @@
+# IUD, 2011_IVC_depart_F028_E067
+# Objects(5):
+# Object: COMMA_1 . 
+N, 3, COMMA, 1.0
+# Object: f_1 . 
+N, 0, f, 1.0
+N, 1, f, 1.0
+E, 0, 1, f, 1.0
+E, 1, 0, f, 1.0
+# Object: g_1 . 
+N, 4, g, 1.0
+# Object: 2_2 . 
+N, 5, 2, 1.0
+# Object: 2_1 . 
+N, 2, 2, 1.0
+
+# Relations from SRT:
+E, 0, 2, Sub, 1.0
+E, 0, 3, Right, 1.0
+E, 1, 2, Sub, 1.0
+E, 1, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Sub, 1.0

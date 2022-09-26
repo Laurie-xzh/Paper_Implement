@@ -1,0 +1,105 @@
+# IUD, 117_Frank
+# Objects(25):
+# Object: u_1 . 
+N, 6, u, 1.0
+# Object: )_2 . 
+N, 21, ), 1.0
+# Object: _3 . 
+N, 25, -, 1.0
+# Object: _2 . 
+N, 14, -, 1.0
+# Object: u_3 . 
+N, 24, u, 1.0
+# Object: p_1 . 
+N, 8, p, 1.0
+# Object: y_1 . 
+N, 0, y, 1.0
+# Object: (_1 . 
+N, 9, (, 1.0
+# Object: 2_3 . 
+N, 26, 2, 1.0
+# Object: -_2 . 
+N, 11, -, 1.0
+# Object: y_2 . 
+N, 10, y, 1.0
+# Object: u_2 . 
+N, 17, u, 1.0
+# Object: 2_2 . 
+N, 15, 2, 1.0
+# Object: =_1 . 
+N, 27, =, 1.0
+N, 28, =, 1.0
+E, 27, 28, =, 1.0
+E, 28, 27, =, 1.0
+# Object: _1 . 
+N, 5, \sqrt, 1.0
+# Object: )_1 . 
+N, 20, ), 1.0
+# Object: q_1 . 
+N, 12, q, 1.0
+N, 13, q, 1.0
+E, 12, 13, q, 1.0
+E, 13, 12, q, 1.0
+# Object: p_2 . 
+N, 19, p, 1.0
+# Object: 2_1 . 
+N, 1, 2, 1.0
+# Object: -_1 . 
+N, 7, -, 1.0
+# Object: +_1 . 
+N, 22, +, 1.0
+N, 23, +, 1.0
+E, 22, 23, +, 1.0
+E, 23, 22, +, 1.0
+# Object: (_2 . 
+N, 16, (, 1.0
+# Object: -_3 . 
+N, 18, -, 1.0
+# Object: 0_1 . 
+N, 29, 0, 1.0
+# Object: pm_1 . 
+N, 2, \pm, 1.0
+N, 3, \pm, 1.0
+N, 4, \pm, 1.0
+E, 2, 3, \pm, 1.0
+E, 2, 4, \pm, 1.0
+E, 3, 2, \pm, 1.0
+E, 3, 4, \pm, 1.0
+E, 4, 2, \pm, 1.0
+E, 4, 3, \pm, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Right, 1.0
+E, 0, 3, Right, 1.0
+E, 0, 4, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Inside, 1.0
+E, 5, 7, Inside, 1.0
+E, 5, 9, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 11, 14, Right, 1.0
+E, 14, 12, Above, 1.0
+E, 14, 13, Above, 1.0
+E, 14, 15, Below, 1.0
+E, 14, 21, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 16, 17, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 21, 22, Right, 1.0
+E, 21, 23, Right, 1.0
+E, 22, 25, Right, 1.0
+E, 23, 25, Right, 1.0
+E, 25, 24, Above, 1.0
+E, 25, 26, Below, 1.0
+E, 25, 27, Right, 1.0
+E, 25, 28, Right, 1.0
+E, 27, 29, Right, 1.0
+E, 28, 29, Right, 1.0

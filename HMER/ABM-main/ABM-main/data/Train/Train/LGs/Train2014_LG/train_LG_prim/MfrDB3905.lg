@@ -1,0 +1,60 @@
+# IUD, MfrDB3905
+# Objects(13):
+# Object: )_1 . 
+N, 11, ), 1.0
+# Object: (_1 . 
+N, 6, (, 1.0
+# Object: 3_1 . 
+N, 4, 3, 1.0
+# Object: \frac_2 . 
+N, 8, -, 1.0
+# Object: 4_1 . 
+N, 0, 4, 1.0
+N, 1, 4, 1.0
+E, 0, 1, 4, 1.0
+E, 1, 0, 4, 1.0
+# Object: 4_2 . 
+N, 13, 4, 1.0
+N, 14, 4, 1.0
+E, 13, 14, 4, 1.0
+E, 14, 13, 4, 1.0
+# Object: 2_2 . 
+N, 7, 2, 1.0
+# Object: -_1 . 
+N, 5, -, 1.0
+# Object: \frac_1 . 
+N, 2, -, 1.0
+# Object: -_2 . 
+N, 12, -, 1.0
+# Object: x_1 . 
+N, 15, x, 1.0
+N, 16, x, 1.0
+E, 15, 16, x, 1.0
+E, 16, 15, x, 1.0
+# Object: x_2 . 
+N, 9, x, 1.0
+N, 10, x, 1.0
+E, 9, 10, x, 1.0
+E, 10, 9, x, 1.0
+# Object: 2_1 . 
+N, 3, 2, 1.0
+
+# Relations from SRT:
+E, 2, 3, Below, 1.0
+E, 2, 5, Right, 1.0
+E, 2, 15, Above, 1.0
+E, 2, 16, Above, 1.0
+E, 3, 4, Sup, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 8, 7, Above, 1.0
+E, 8, 9, Below, 1.0
+E, 8, 10, Below, 1.0
+E, 8, 11, Right, 1.0
+E, 11, 12, Sup, 1.0
+E, 12, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 15, 0, Sup, 1.0
+E, 15, 1, Sup, 1.0
+E, 16, 0, Sup, 1.0
+E, 16, 1, Sup, 1.0

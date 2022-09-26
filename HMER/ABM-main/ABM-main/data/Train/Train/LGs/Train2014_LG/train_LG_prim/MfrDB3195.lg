@@ -1,0 +1,58 @@
+# IUD, MfrDB3195
+# Objects(10):
+# Object: n_2 . 
+N, 8, n, 1.0
+# Object: =_1 . 
+N, 12, =, 1.0
+N, 13, =, 1.0
+E, 12, 13, =, 1.0
+E, 13, 12, =, 1.0
+# Object: \lim_1 . 
+N, 0, \lim, 1.0
+N, 1, \lim, 1.0
+E, 0, 1, \lim, 1.0
+E, 1, 0, \lim, 1.0
+# Object: n_1 . 
+N, 2, n, 1.0
+# Object: 1_1 . 
+N, 6, 1, 1.0
+# Object: \frac_1 . 
+N, 7, -, 1.0
+# Object: p_1 . 
+N, 9, p, 1.0
+N, 10, p, 1.0
+N, 11, p, 1.0
+E, 9, 10, p, 1.0
+E, 9, 11, p, 1.0
+E, 10, 9, p, 1.0
+E, 10, 11, p, 1.0
+E, 11, 9, p, 1.0
+E, 11, 10, p, 1.0
+# Object: \vec_1 . 
+N, 3, \rightarrow, 1.0
+N, 4, \rightarrow, 1.0
+E, 3, 4, \rightarrow, 1.0
+E, 4, 3, \rightarrow, 1.0
+# Object: \infty_1 . 
+N, 5, \infty, 1.0
+# Object: 0_1 . 
+N, 14, 0, 1.0
+
+# Relations from SRT:
+E, 0, 2, Below, 1.0
+E, 0, 7, Right, 1.0
+E, 1, 2, Below, 1.0
+E, 1, 7, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 7, 6, Above, 1.0
+E, 7, 8, Below, 1.0
+E, 7, 12, Right, 1.0
+E, 7, 13, Right, 1.0
+E, 8, 9, Sup, 1.0
+E, 8, 10, Sup, 1.0
+E, 8, 11, Sup, 1.0
+E, 12, 14, Right, 1.0
+E, 13, 14, Right, 1.0

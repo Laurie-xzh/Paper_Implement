@@ -1,0 +1,97 @@
+# IUD, MfrDB1882
+# Objects(12):
+# Object: \lim_1 . 
+N, 0, \lim, 1.0
+N, 1, \lim, 1.0
+N, 2, \lim, 1.0
+N, 3, \lim, 1.0
+E, 0, 1, \lim, 1.0
+E, 0, 2, \lim, 1.0
+E, 0, 3, \lim, 1.0
+E, 1, 0, \lim, 1.0
+E, 1, 2, \lim, 1.0
+E, 1, 3, \lim, 1.0
+E, 2, 0, \lim, 1.0
+E, 2, 1, \lim, 1.0
+E, 2, 3, \lim, 1.0
+E, 3, 0, \lim, 1.0
+E, 3, 1, \lim, 1.0
+E, 3, 2, \lim, 1.0
+# Object: 0_2 . 
+N, 20, 0, 1.0
+# Object: \cos_1 . 
+N, 12, \cos, 1.0
+N, 13, \cos, 1.0
+E, 12, 13, \cos, 1.0
+E, 13, 12, \cos, 1.0
+# Object: =_1 . 
+N, 18, =, 1.0
+N, 19, =, 1.0
+E, 18, 19, =, 1.0
+E, 19, 18, =, 1.0
+# Object: -_1 . 
+N, 11, -, 1.0
+# Object: \vec_1 . 
+N, 7, \rightarrow, 1.0
+# Object: 1_1 . 
+N, 10, 1, 1.0
+# Object: x_2 . 
+N, 14, x, 1.0
+N, 15, x, 1.0
+E, 14, 15, x, 1.0
+E, 15, 14, x, 1.0
+# Object: 0_1 . 
+N, 8, 0, 1.0
+# Object: x_1 . 
+N, 4, x, 1.0
+N, 5, x, 1.0
+N, 6, x, 1.0
+E, 4, 5, x, 1.0
+E, 4, 6, x, 1.0
+E, 5, 4, x, 1.0
+E, 5, 6, x, 1.0
+E, 6, 4, x, 1.0
+E, 6, 5, x, 1.0
+# Object: \frac_1 . 
+N, 9, -, 1.0
+# Object: x_3 . 
+N, 16, x, 1.0
+N, 17, x, 1.0
+E, 16, 17, x, 1.0
+E, 17, 16, x, 1.0
+
+# Relations from SRT:
+E, 0, 4, Below, 1.0
+E, 0, 5, Below, 1.0
+E, 0, 6, Below, 1.0
+E, 0, 9, Right, 1.0
+E, 1, 4, Below, 1.0
+E, 1, 5, Below, 1.0
+E, 1, 6, Below, 1.0
+E, 1, 9, Right, 1.0
+E, 2, 4, Below, 1.0
+E, 2, 5, Below, 1.0
+E, 2, 6, Below, 1.0
+E, 2, 9, Right, 1.0
+E, 3, 4, Below, 1.0
+E, 3, 5, Below, 1.0
+E, 3, 6, Below, 1.0
+E, 3, 9, Right, 1.0
+E, 4, 7, Right, 1.0
+E, 5, 7, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 9, 10, Above, 1.0
+E, 9, 16, Below, 1.0
+E, 9, 17, Below, 1.0
+E, 9, 18, Right, 1.0
+E, 9, 19, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 12, 15, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 13, 15, Right, 1.0
+E, 18, 20, Right, 1.0
+E, 19, 20, Right, 1.0

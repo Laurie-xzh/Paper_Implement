@@ -1,0 +1,85 @@
+# IUD, MfrDB0094
+# Objects(20):
+# Object: \cdot_1 . 
+N, 4, ., 1.0
+# Object: )_1 . 
+N, 23, ), 1.0
+# Object: q_2 . 
+N, 5, q, 1.0
+# Object: 1_2 . 
+N, 9, 1, 1.0
+# Object: \cdot_2 . 
+N, 17, ., 1.0
+# Object: 1_1 . 
+N, 0, 1, 1.0
+# Object: 1_4 . 
+N, 22, 1, 1.0
+# Object: (_1 . 
+N, 18, (, 1.0
+# Object: m_1 . 
+N, 3, m, 1.0
+# Object: \frac_1 . 
+N, 1, -, 1.0
+# Object: q_1 . 
+N, 2, q, 1.0
+# Object: m_2 . 
+N, 6, m, 1.0
+# Object: 1_3 . 
+N, 14, 1, 1.0
+# Object: m_3 . 
+N, 16, m, 1.0
+# Object: \leq_1 . 
+N, 10, \leq, 1.0
+N, 11, \leq, 1.0
+N, 12, \leq, 1.0
+E, 10, 11, \leq, 1.0
+E, 10, 12, \leq, 1.0
+E, 11, 10, \leq, 1.0
+E, 11, 12, \leq, 1.0
+E, 12, 10, \leq, 1.0
+E, 12, 11, \leq, 1.0
+# Object: +_2 . 
+N, 20, +, 1.0
+N, 21, +, 1.0
+E, 20, 21, +, 1.0
+E, 21, 20, +, 1.0
+# Object: \frac_2 . 
+N, 13, -, 1.0
+# Object: +_1 . 
+N, 7, +, 1.0
+N, 8, +, 1.0
+E, 7, 8, +, 1.0
+E, 8, 7, +, 1.0
+# Object: g_1 . 
+N, 15, g, 1.0
+# Object: n_1 . 
+N, 19, n, 1.0
+
+# Relations from SRT:
+E, 1, 0, Above, 1.0
+E, 1, 2, Below, 1.0
+E, 1, 10, Right, 1.0
+E, 1, 11, Right, 1.0
+E, 1, 12, Right, 1.0
+E, 2, 3, Sub, 1.0
+E, 2, 4, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Sub, 1.0
+E, 6, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 10, 13, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 13, 14, Above, 1.0
+E, 13, 15, Below, 1.0
+E, 15, 16, Sub, 1.0
+E, 15, 17, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 19, 21, Right, 1.0
+E, 20, 22, Right, 1.0
+E, 21, 22, Right, 1.0
+E, 22, 23, Right, 1.0

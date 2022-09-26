@@ -1,0 +1,59 @@
+# IUD, 2011_IVC_depart_F035_E054
+# Objects(10):
+# Object: \beta_3 . 
+N, 7, \beta, 1.0
+N, 8, \beta, 1.0
+E, 7, 8, \beta, 1.0
+E, 8, 7, \beta, 1.0
+# Object: 1_1 . 
+N, 4, 1, 1.0
+N, 5, 1, 1.0
+E, 4, 5, 1, 1.0
+E, 5, 4, 1, 1.0
+# Object: _2 . 
+N, 13, \sqrt, 1.0
+# Object: -_1 . 
+N, 6, -, 1.0
+# Object: \beta_2 . 
+N, 3, \beta, 1.0
+# Object: =_1 . 
+N, 2, =, 1.0
+N, 1, =, 1.0
+E, 2, 1, =, 1.0
+E, 1, 2, =, 1.0
+# Object: \beta_1 . 
+N, 0, \beta, 1.0
+# Object: 2_1 . 
+N, 9, 2, 1.0
+N, 11, 2, 1.0
+E, 9, 11, 2, 1.0
+E, 11, 9, 2, 1.0
+# Object: _1 . 
+N, 10, -, 1.0
+N, 12, -, 1.0
+E, 10, 12, -, 1.0
+E, 12, 10, -, 1.0
+# Object: 3_1 . 
+N, 14, 3, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 10, Right, 1.0
+E, 1, 12, Right, 1.0
+E, 2, 10, Right, 1.0
+E, 2, 12, Right, 1.0
+E, 3, 4, Sub, 1.0
+E, 3, 5, Sub, 1.0
+E, 3, 6, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 6, 8, Right, 1.0
+E, 7, 9, Sub, 1.0
+E, 7, 11, Sub, 1.0
+E, 8, 9, Sub, 1.0
+E, 8, 11, Sub, 1.0
+E, 10, 3, Above, 1.0
+E, 10, 13, Below, 1.0
+E, 12, 3, Above, 1.0
+E, 12, 13, Below, 1.0
+E, 13, 14, Inside, 1.0

@@ -1,0 +1,29 @@
+# IUD, MfrDB2272
+# Objects(4):
+# Object: 5_3 . 
+N, 3, 5, 1.0
+N, 4, 5, 1.0
+E, 3, 4, 5, 1.0
+E, 4, 3, 5, 1.0
+# Object: 5_2 . 
+N, 1, 5, 1.0
+N, 2, 5, 1.0
+E, 1, 2, 5, 1.0
+E, 2, 1, 5, 1.0
+# Object: \sqrt_1 . 
+N, 0, \sqrt, 1.0
+# Object: 5_1 . 
+N, 5, 5, 1.0
+N, 6, 5, 1.0
+E, 5, 6, 5, 1.0
+E, 6, 5, 5, 1.0
+
+# Relations from SRT:
+E, 0, 1, Above, 1.0
+E, 0, 2, Above, 1.0
+E, 0, 5, Inside, 1.0
+E, 0, 6, Inside, 1.0
+E, 1, 3, Right, 1.0
+E, 1, 4, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0

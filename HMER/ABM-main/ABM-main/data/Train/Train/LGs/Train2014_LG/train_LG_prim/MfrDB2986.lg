@@ -1,0 +1,64 @@
+# IUD, MfrDB2986
+# Objects(16):
+# Object: 2_2 . 
+N, 13, 2, 1.0
+# Object: (_1 . 
+N, 0, (, 1.0
+# Object: 3_1 . 
+N, 7, 3, 1.0
+# Object: +_1 . 
+N, 10, +, 1.0
+N, 11, +, 1.0
+E, 10, 11, +, 1.0
+E, 11, 10, +, 1.0
+# Object: n_1 . 
+N, 9, n, 1.0
+# Object: )_1 . 
+N, 17, ), 1.0
+# Object: n_2 . 
+N, 15, n, 1.0
+# Object: m_2 . 
+N, 8, m, 1.0
+# Object: -_1 . 
+N, 5, -, 1.0
+# Object: 1_1 . 
+N, 1, 1, 1.0
+# Object: \frac_2 . 
+N, 6, -, 1.0
+# Object: \frac_1 . 
+N, 2, -, 1.0
+# Object: m_3 . 
+N, 14, m, 1.0
+# Object: m_1 . 
+N, 3, m, 1.0
+# Object: 2_1 . 
+N, 4, 2, 1.0
+# Object: \frac_3 . 
+N, 12, -, 1.0
+N, 16, -, 1.0
+E, 12, 16, -, 1.0
+E, 16, 12, -, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 2, 1, Above, 1.0
+E, 2, 3, Below, 1.0
+E, 2, 5, Right, 1.0
+E, 3, 4, Sup, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Above, 1.0
+E, 6, 9, Below, 1.0
+E, 6, 10, Right, 1.0
+E, 6, 11, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 10, 16, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 11, 16, Right, 1.0
+E, 12, 13, Above, 1.0
+E, 12, 14, Below, 1.0
+E, 12, 17, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 16, 13, Above, 1.0
+E, 16, 14, Below, 1.0
+E, 16, 17, Right, 1.0

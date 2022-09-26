@@ -1,0 +1,12 @@
+# IUD, 2011_IVC_depart_F035_E069
+# Objects(3):
+# Object: 2_1 . 
+N, 1, 2, 1.0
+# Object: \beta_1 . 
+N, 0, \beta, 1.0
+# Object: m_1 . 
+N, 2, m, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sup, 1.0
+E, 0, 2, Sub, 1.0

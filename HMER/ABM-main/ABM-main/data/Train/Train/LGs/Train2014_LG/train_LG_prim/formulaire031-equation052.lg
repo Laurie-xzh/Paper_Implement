@@ -1,0 +1,86 @@
+# IUD, 2011_IVC_depart_F031_E052
+# Objects(11):
+# Object: (_1 . 
+N, 7, (, 1.0
+# Object: k_2 . 
+N, 8, k, 1.0
+N, 10, k, 1.0
+N, 9, k, 1.0
+N, 14, k, 1.0
+E, 8, 10, k, 1.0
+E, 8, 9, k, 1.0
+E, 8, 14, k, 1.0
+E, 10, 8, k, 1.0
+E, 10, 9, k, 1.0
+E, 10, 14, k, 1.0
+E, 9, 8, k, 1.0
+E, 9, 10, k, 1.0
+E, 9, 14, k, 1.0
+E, 14, 8, k, 1.0
+E, 14, 10, k, 1.0
+E, 14, 9, k, 1.0
+# Object: log_1 . 
+N, 3, \log, 1.0
+N, 4, \log, 1.0
+N, 5, \log, 1.0
+E, 3, 4, \log, 1.0
+E, 3, 5, \log, 1.0
+E, 4, 3, \log, 1.0
+E, 4, 5, \log, 1.0
+E, 5, 3, \log, 1.0
+E, 5, 4, \log, 1.0
+# Object: 2_1 . 
+N, 16, 2, 1.0
+# Object: 1_2 . 
+N, 13, 1, 1.0
+# Object: +_1 . 
+N, 1, +, 1.0
+N, 2, +, 1.0
+E, 1, 2, +, 1.0
+E, 2, 1, +, 1.0
+# Object: +_2 . 
+N, 11, +, 1.0
+N, 12, +, 1.0
+E, 11, 12, +, 1.0
+E, 12, 11, +, 1.0
+# Object: _1 . 
+N, 15, -, 1.0
+# Object: k_1 . 
+N, 6, k, 1.0
+# Object: )_1 . 
+N, 17, ), 1.0
+# Object: 1_1 . 
+N, 0, 1, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 3, Right, 1.0
+E, 1, 4, Right, 1.0
+E, 1, 5, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 3, 6, Sub, 1.0
+E, 3, 7, Right, 1.0
+E, 4, 6, Sub, 1.0
+E, 4, 7, Right, 1.0
+E, 5, 6, Sub, 1.0
+E, 5, 7, Right, 1.0
+E, 7, 15, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 8, 12, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 9, 12, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 10, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 13, Right, 1.0
+E, 14, 11, Right, 1.0
+E, 14, 12, Right, 1.0
+E, 15, 8, Above, 1.0
+E, 15, 9, Above, 1.0
+E, 15, 10, Above, 1.0
+E, 15, 14, Above, 1.0
+E, 15, 16, Below, 1.0
+E, 15, 17, Right, 1.0

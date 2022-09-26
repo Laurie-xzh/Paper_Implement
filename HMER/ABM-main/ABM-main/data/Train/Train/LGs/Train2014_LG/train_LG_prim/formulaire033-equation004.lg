@@ -1,0 +1,70 @@
+# IUD, 2011_IVC_depart_F033_E004
+# Objects(15):
+# Object: b_2 . 
+N, 13, b, 1.0
+# Object: )_1 . 
+N, 17, ), 1.0
+# Object: 0_1 . 
+N, 11, 0, 1.0
+# Object: (_1 . 
+N, 0, (, 1.0
+# Object: =_1 . 
+N, 9, =, 1.0
+N, 10, =, 1.0
+E, 9, 10, =, 1.0
+E, 10, 9, =, 1.0
+# Object: \sum_1 . 
+N, 6, \sum, 1.0
+# Object: k_2 . 
+N, 14, k, 1.0
+# Object: n_2 . 
+N, 7, n, 1.0
+# Object: n_1 . 
+N, 4, n, 1.0
+# Object: 1_1 . 
+N, 1, 1, 1.0
+# Object: _1 . 
+N, 2, -, 1.0
+# Object: b_1 . 
+N, 3, b, 1.0
+N, 5, b, 1.0
+E, 3, 5, b, 1.0
+E, 5, 3, b, 1.0
+# Object: u_1 . 
+N, 15, u, 1.0
+N, 18, u, 1.0
+E, 15, 18, u, 1.0
+E, 18, 15, u, 1.0
+# Object: k_1 . 
+N, 8, k, 1.0
+N, 12, k, 1.0
+E, 8, 12, k, 1.0
+E, 12, 8, k, 1.0
+# Object: k_3 . 
+N, 16, k, 1.0
+
+# Relations from SRT:
+E, 0, 2, Right, 1.0
+E, 2, 1, Above, 1.0
+E, 2, 3, Below, 1.0
+E, 2, 5, Below, 1.0
+E, 2, 6, Right, 1.0
+E, 3, 4, Sub, 1.0
+E, 5, 4, Sub, 1.0
+E, 6, 7, Above, 1.0
+E, 6, 8, Below, 1.0
+E, 6, 12, Below, 1.0
+E, 6, 13, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 12, 9, Right, 1.0
+E, 12, 10, Right, 1.0
+E, 13, 14, Sub, 1.0
+E, 13, 15, Right, 1.0
+E, 13, 18, Right, 1.0
+E, 15, 16, Sub, 1.0
+E, 15, 17, Right, 1.0
+E, 18, 16, Sub, 1.0
+E, 18, 17, Right, 1.0

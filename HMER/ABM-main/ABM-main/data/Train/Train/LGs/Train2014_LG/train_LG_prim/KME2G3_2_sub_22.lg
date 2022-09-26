@@ -1,0 +1,81 @@
+# IUD, 2011_KME2_w2_e22
+# Objects(17):
+# Object: z_3 . 
+N, 12, z, 1.0
+N, 13, z, 1.0
+E, 12, 13, z, 1.0
+E, 13, 12, z, 1.0
+# Object: x_3 . 
+N, 1, x, 1.0
+# Object: y_2 . 
+N, 7, y, 1.0
+# Object: -_2 . 
+N, 17, -, 1.0
+# Object: x_4 . 
+N, 16, x, 1.0
+# Object: +_1 . 
+N, 3, +, 1.0
+N, 4, +, 1.0
+E, 3, 4, +, 1.0
+E, 4, 3, +, 1.0
+# Object: z_1 . 
+N, 10, z, 1.0
+N, 11, z, 1.0
+E, 10, 11, z, 1.0
+E, 11, 10, z, 1.0
+# Object: +_2 . 
+N, 8, +, 1.0
+N, 9, +, 1.0
+E, 8, 9, +, 1.0
+E, 9, 8, +, 1.0
+# Object: y_3 . 
+N, 6, y, 1.0
+# Object: y_4 . 
+N, 18, y, 1.0
+# Object: z_2 . 
+N, 14, z, 1.0
+# Object: -_3 . 
+N, 19, -, 1.0
+# Object: x_2 . 
+N, 2, x, 1.0
+# Object: y_1 . 
+N, 5, y, 1.0
+# Object: z_4 . 
+N, 20, z, 1.0
+N, 21, z, 1.0
+E, 20, 21, z, 1.0
+E, 21, 20, z, 1.0
+# Object: x_1 . 
+N, 0, x, 1.0
+# Object: -_1 . 
+N, 15, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Sub, 1.0
+E, 0, 2, Sup, 1.0
+E, 0, 3, Right, 1.0
+E, 0, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Sub, 1.0
+E, 5, 7, Sup, 1.0
+E, 5, 8, Right, 1.0
+E, 5, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 10, 12, Sub, 1.0
+E, 10, 13, Sub, 1.0
+E, 10, 14, Sup, 1.0
+E, 10, 15, Right, 1.0
+E, 11, 12, Sub, 1.0
+E, 11, 13, Sub, 1.0
+E, 11, 14, Sup, 1.0
+E, 11, 15, Right, 1.0
+E, 15, 16, Right, 1.0
+E, 16, 17, Right, 1.0
+E, 17, 18, Right, 1.0
+E, 18, 19, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 19, 21, Right, 1.0

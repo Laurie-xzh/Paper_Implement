@@ -1,0 +1,59 @@
+# IUD, 109_silas
+# Objects(13):
+# Object: x_1 . 
+N, 15, x, 1.0
+N, 16, x, 1.0
+E, 15, 16, x, 1.0
+E, 16, 15, x, 1.0
+# Object: b_2 . 
+N, 9, b, 1.0
+# Object: _5 . 
+N, 10, \sqrt, 1.0
+# Object: _4 . 
+N, 5, \sqrt, 1.0
+# Object: _2 . 
+N, 1, -, 1.0
+# Object: a_1 . 
+N, 6, a, 1.0
+# Object: =_1 . 
+N, 2, =, 1.0
+N, 3, =, 1.0
+E, 2, 3, =, 1.0
+E, 3, 2, =, 1.0
+# Object: b_1 . 
+N, 7, b, 1.0
+# Object: x_2 . 
+N, 13, x, 1.0
+N, 14, x, 1.0
+E, 13, 14, x, 1.0
+E, 14, 13, x, 1.0
+# Object: _1 . 
+N, 0, \sqrt, 1.0
+# Object: x_3 . 
+N, 11, x, 1.0
+N, 12, x, 1.0
+E, 11, 12, x, 1.0
+E, 12, 11, x, 1.0
+# Object: _3 . 
+N, 4, -, 1.0
+# Object: a_2 . 
+N, 8, a, 1.0
+
+# Relations from SRT:
+E, 0, 1, Inside, 1.0
+E, 0, 2, Right, 1.0
+E, 0, 3, Right, 1.0
+E, 0, 15, Above, 1.0
+E, 0, 16, Above, 1.0
+E, 1, 6, Above, 1.0
+E, 1, 7, Below, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Above, 1.0
+E, 4, 10, Below, 1.0
+E, 5, 8, Inside, 1.0
+E, 5, 13, Above, 1.0
+E, 5, 14, Above, 1.0
+E, 10, 9, Inside, 1.0
+E, 10, 11, Above, 1.0
+E, 10, 12, Above, 1.0

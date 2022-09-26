@@ -1,0 +1,94 @@
+# IUD, MfrDB0023
+# Objects(21):
+# Object: \frac_2 . 
+N, 6, -, 1.0
+# Object: 1_2 . 
+N, 3, 1, 1.0
+# Object: \frac_4 . 
+N, 11, -, 1.0
+# Object: 1_3 . 
+N, 10, 1, 1.0
+# Object: 4_1 . 
+N, 12, 4, 1.0
+N, 13, 4, 1.0
+E, 12, 13, 4, 1.0
+E, 13, 12, 4, 1.0
+# Object: +_4 . 
+N, 21, +, 1.0
+N, 22, +, 1.0
+E, 21, 22, +, 1.0
+E, 22, 21, +, 1.0
+# Object: \frac_6 . 
+N, 24, -, 1.0
+# Object: 3_2 . 
+N, 17, 3, 1.0
+# Object: +_3 . 
+N, 18, +, 1.0
+N, 19, +, 1.0
+E, 18, 19, +, 1.0
+E, 19, 18, +, 1.0
+# Object: \frac_3 . 
+N, 4, -, 1.0
+# Object: 3_1 . 
+N, 7, 3, 1.0
+# Object: 1_1 . 
+N, 0, 1, 1.0
+# Object: +_2 . 
+N, 8, +, 1.0
+N, 9, +, 1.0
+E, 8, 9, +, 1.0
+E, 9, 8, +, 1.0
+# Object: +_1 . 
+N, 1, +, 1.0
+N, 2, +, 1.0
+E, 1, 2, +, 1.0
+E, 2, 1, +, 1.0
+# Object: 2_2 . 
+N, 23, 2, 1.0
+# Object: 1_5 . 
+N, 20, 1, 1.0
+# Object: 1_4 . 
+N, 15, 1, 1.0
+# Object: 4_2 . 
+N, 25, 4, 1.0
+N, 26, 4, 1.0
+E, 25, 26, 4, 1.0
+E, 26, 25, 4, 1.0
+# Object: 2_1 . 
+N, 5, 2, 1.0
+# Object: \frac_1 . 
+N, 14, -, 1.0
+# Object: \frac_5 . 
+N, 16, -, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 0, 2, Right, 1.0
+E, 1, 4, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 4, 3, Above, 1.0
+E, 4, 5, Below, 1.0
+E, 6, 0, Above, 1.0
+E, 6, 7, Below, 1.0
+E, 6, 8, Right, 1.0
+E, 6, 9, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 9, 11, Right, 1.0
+E, 11, 10, Above, 1.0
+E, 11, 12, Below, 1.0
+E, 11, 13, Below, 1.0
+E, 14, 6, Above, 1.0
+E, 14, 16, Below, 1.0
+E, 16, 15, Above, 1.0
+E, 16, 17, Below, 1.0
+E, 16, 18, Right, 1.0
+E, 16, 19, Right, 1.0
+E, 18, 20, Right, 1.0
+E, 19, 20, Right, 1.0
+E, 20, 21, Right, 1.0
+E, 20, 22, Right, 1.0
+E, 21, 24, Right, 1.0
+E, 22, 24, Right, 1.0
+E, 24, 23, Above, 1.0
+E, 24, 25, Below, 1.0
+E, 24, 26, Below, 1.0

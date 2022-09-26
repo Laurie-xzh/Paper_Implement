@@ -1,0 +1,58 @@
+# IUD, MfrDB2909
+# Objects(6):
+# Object: x_1 . 
+N, 3, x, 1.0
+N, 4, x, 1.0
+N, 7, x, 1.0
+E, 3, 4, x, 1.0
+E, 3, 7, x, 1.0
+E, 4, 3, x, 1.0
+E, 4, 7, x, 1.0
+E, 7, 3, x, 1.0
+E, 7, 4, x, 1.0
+# Object: (_1 . 
+N, 9, (, 1.0
+# Object: +_1 . 
+N, 5, +, 1.0
+N, 11, +, 1.0
+E, 5, 11, +, 1.0
+E, 11, 5, +, 1.0
+# Object: \lim_1 . 
+N, 0, \lim, 1.0
+N, 1, \lim, 1.0
+N, 2, \lim, 1.0
+N, 8, \lim, 1.0
+E, 0, 1, \lim, 1.0
+E, 0, 2, \lim, 1.0
+E, 0, 8, \lim, 1.0
+E, 1, 0, \lim, 1.0
+E, 1, 2, \lim, 1.0
+E, 1, 8, \lim, 1.0
+E, 2, 0, \lim, 1.0
+E, 2, 1, \lim, 1.0
+E, 2, 8, \lim, 1.0
+E, 8, 0, \lim, 1.0
+E, 8, 1, \lim, 1.0
+E, 8, 2, \lim, 1.0
+# Object: 2_1 . 
+N, 6, 2, 1.0
+# Object: )_1 . 
+N, 10, ), 1.0
+
+# Relations from SRT:
+E, 0, 9, Right, 1.0
+E, 1, 9, Right, 1.0
+E, 2, 9, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 3, 11, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 4, 11, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 10, Right, 1.0
+E, 7, 5, Right, 1.0
+E, 7, 11, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 9, 3, Right, 1.0
+E, 9, 4, Right, 1.0
+E, 9, 7, Right, 1.0
+E, 11, 6, Right, 1.0

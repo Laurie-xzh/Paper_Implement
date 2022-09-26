@@ -1,0 +1,75 @@
+# IUD, 2011_KAIST_Data2_0_sub_43
+# Objects(9):
+# Object: -_1 . 
+N, 0, -, 1.0
+# Object: 1_1 . 
+N, 1, 1, 1.0
+# Object: \tan_2 . 
+N, 3, \tan, 1.0
+N, 4, \tan, 1.0
+N, 5, \tan, 1.0
+N, 6, \tan, 1.0
+E, 3, 4, \tan, 1.0
+E, 3, 5, \tan, 1.0
+E, 3, 6, \tan, 1.0
+E, 4, 3, \tan, 1.0
+E, 4, 5, \tan, 1.0
+E, 4, 6, \tan, 1.0
+E, 5, 3, \tan, 1.0
+E, 5, 4, \tan, 1.0
+E, 5, 6, \tan, 1.0
+E, 6, 3, \tan, 1.0
+E, 6, 4, \tan, 1.0
+E, 6, 5, \tan, 1.0
+# Object: 2_1 . 
+N, 8, 2, 1.0
+# Object: -_2 . 
+N, 2, -, 1.0
+# Object: \tan_1 . 
+N, 9, \tan, 1.0
+N, 10, \tan, 1.0
+N, 11, \tan, 1.0
+N, 12, \tan, 1.0
+E, 9, 10, \tan, 1.0
+E, 9, 11, \tan, 1.0
+E, 9, 12, \tan, 1.0
+E, 10, 9, \tan, 1.0
+E, 10, 11, \tan, 1.0
+E, 10, 12, \tan, 1.0
+E, 11, 9, \tan, 1.0
+E, 11, 10, \tan, 1.0
+E, 11, 12, \tan, 1.0
+E, 12, 9, \tan, 1.0
+E, 12, 10, \tan, 1.0
+E, 12, 11, \tan, 1.0
+# Object: 2_2 . 
+N, 7, 2, 1.0
+# Object: \alpha_1 . 
+N, 13, \alpha, 1.0
+# Object: \alpha_2 . 
+N, 14, \alpha, 1.0
+
+# Relations from SRT:
+E, 0, 1, Below, 1.0
+E, 0, 8, Above, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 2, 5, Right, 1.0
+E, 2, 6, Right, 1.0
+E, 3, 7, Sup, 1.0
+E, 3, 14, Right, 1.0
+E, 4, 7, Sup, 1.0
+E, 4, 14, Right, 1.0
+E, 5, 7, Sup, 1.0
+E, 5, 14, Right, 1.0
+E, 6, 7, Sup, 1.0
+E, 6, 14, Right, 1.0
+E, 8, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 8, 11, Right, 1.0
+E, 8, 12, Right, 1.0
+E, 9, 13, Right, 1.0
+E, 10, 13, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 13, Right, 1.0

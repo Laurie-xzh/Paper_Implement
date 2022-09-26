@@ -1,0 +1,28 @@
+# IUD, 2011_IVC_depart_F007_E004
+# Objects(5):
+# Object: \lim_1 . 
+N, 0, \lim, 1.0
+N, 1, \lim, 1.0
+N, 2, \lim, 1.0
+E, 0, 1, \lim, 1.0
+E, 0, 2, \lim, 1.0
+E, 1, 0, \lim, 1.0
+E, 1, 2, \lim, 1.0
+E, 2, 0, \lim, 1.0
+E, 2, 1, \lim, 1.0
+# Object: )_1 . 
+N, 6, ), 1.0
+# Object: u_1 . 
+N, 4, u, 1.0
+# Object: n_1 . 
+N, 5, n, 1.0
+# Object: (_1 . 
+N, 3, (, 1.0
+
+# Relations from SRT:
+E, 0, 3, Right, 1.0
+E, 1, 3, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 3, 4, Right, 1.0
+E, 4, 5, Sub, 1.0
+E, 4, 6, Right, 1.0

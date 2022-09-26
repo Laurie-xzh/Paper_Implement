@@ -1,0 +1,65 @@
+# IUD, MfrDB2099
+# Objects(14):
+# Object: \log_1 . 
+N, 1, \log, 1.0
+# Object: -_1 . 
+N, 5, -, 1.0
+# Object: =_1 . 
+N, 8, =, 1.0
+N, 9, =, 1.0
+E, 8, 9, =, 1.0
+E, 9, 8, =, 1.0
+# Object: x_1 . 
+N, 3, x, 1.0
+N, 4, x, 1.0
+E, 3, 4, x, 1.0
+E, 4, 3, x, 1.0
+# Object: 2_1 . 
+N, 0, 2, 1.0
+# Object: -_2 . 
+N, 14, -, 1.0
+# Object: 5_1 . 
+N, 12, 5, 1.0
+N, 13, 5, 1.0
+E, 12, 13, 5, 1.0
+E, 13, 12, 5, 1.0
+# Object: )_1 . 
+N, 7, ), 1.0
+# Object: )_2 . 
+N, 17, ), 1.0
+# Object: 3_1 . 
+N, 6, 3, 1.0
+# Object: (_1 . 
+N, 2, (, 1.0
+# Object: x_2 . 
+N, 15, x, 1.0
+N, 16, x, 1.0
+E, 15, 16, x, 1.0
+E, 16, 15, x, 1.0
+# Object: (_2 . 
+N, 11, (, 1.0
+# Object: \log_2 . 
+N, 10, \log, 1.0
+
+# Relations from SRT:
+E, 0, 1, Right, 1.0
+E, 1, 2, Right, 1.0
+E, 2, 3, Right, 1.0
+E, 2, 4, Right, 1.0
+E, 3, 5, Right, 1.0
+E, 4, 5, Right, 1.0
+E, 5, 6, Right, 1.0
+E, 6, 7, Right, 1.0
+E, 7, 8, Right, 1.0
+E, 7, 9, Right, 1.0
+E, 8, 10, Right, 1.0
+E, 9, 10, Right, 1.0
+E, 10, 11, Right, 1.0
+E, 11, 12, Right, 1.0
+E, 11, 13, Right, 1.0
+E, 12, 14, Right, 1.0
+E, 13, 14, Right, 1.0
+E, 14, 15, Right, 1.0
+E, 14, 16, Right, 1.0
+E, 15, 17, Right, 1.0
+E, 16, 17, Right, 1.0
