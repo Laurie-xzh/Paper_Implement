@@ -90,7 +90,7 @@ class Gru_cond_layer_aam(nn.Module):
 
         cover_F2 = self.conv_Q2(alpha_past_).permute(2, 3, 0, 1)
         cover_vector2 = self.fc_Uf2(cover_F2)
-
+        #here get the alpha
         attention_score = torch.tanh(Ua_ctx + Wa_h1[None, None, :, :] + cover_vector+cover_vector2)
 
 
